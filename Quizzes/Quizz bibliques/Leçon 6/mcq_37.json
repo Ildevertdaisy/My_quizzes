@@ -1,0 +1,86 @@
+[
+    {
+        "question": "6.1 Thessalonicien 5 : 1 - 6 | 3 Quand les hommes diront : ___ et ___ !",
+        "answers": [
+            {
+                "text": "n'échapperont",
+                "correct": false
+            },
+            {
+                "text": "ruine soudaine, surprendra",
+                "correct": false
+            },
+            {
+                "text": "douleurs de l'enfantement",
+                "correct": false
+            },
+            {
+                "text": "Paix, sûreté",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "7.1 Thessalonicien 5 : 1 - 6 | 3 Alors une ___ les ___,",
+        "answers": [
+            {
+                "text": "Paix, sûreté",
+                "correct": false
+            },
+            {
+                "text": "douleurs de l'enfantement",
+                "correct": false
+            },
+            {
+                "text": "ruine soudaine, surprendra",
+                "correct": true
+            },
+            {
+                "text": "n'échapperont",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8.1 Thessalonicien 5 : 1 - 6 | 3 comme les ___ surprennent la femme enceinte,",
+        "answers": [
+            {
+                "text": "douleurs de l'enfantement",
+                "correct": true
+            },
+            {
+                "text": "Paix, sûreté",
+                "correct": false
+            },
+            {
+                "text": "ruine soudaine, surprendra",
+                "correct": false
+            },
+            {
+                "text": "n'échapperont",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9.1 Thessalonicien 5 : 1 - 6 | 3 et ils ___ point.",
+        "answers": [
+            {
+                "text": "n'échapperont",
+                "correct": true
+            },
+            {
+                "text": "douleurs de l'enfantement",
+                "correct": false
+            },
+            {
+                "text": "ruine soudaine, surprendra",
+                "correct": false
+            },
+            {
+                "text": "Paix, sûreté",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "question": "1. **Dans le verset 2 Timothée 2:20-22, où trouve-t-on tous les vases ? 🏠🧺**",
+        "answers": [
+            {
+                "text": "D’un usage vil.",
+                "correct": false
+            },
+            {
+                "text": "À servir le maître.",
+                "correct": false
+            },
+            {
+                "text": "Dans une grande maison.",
+                "correct": true
+            },
+            {
+                "text": "Avec ceux qui prient Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Quels sont les deux premiers types de vases ? ✨🥇🥈**",
+        "answers": [
+            {
+                "text": "Se garder pur.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            },
+            {
+                "text": "Vase d’or et vase d’argent.",
+                "correct": true
+            },
+            {
+                "text": "Avec ceux qui prient Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Quels autres types sont aussi dans la maison ? 🌳🪵🧱**",
+        "answers": [
+            {
+                "text": "Vase de bois et de terre.",
+                "correct": true
+            },
+            {
+                "text": "À servir le maître.",
+                "correct": false
+            },
+            {
+                "text": "La justice, la paix, la foi.",
+                "correct": false
+            },
+            {
+                "text": "Vase d’or et vase d’argent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Est-ce que tous les vases ont le même rôle ? ❓⚖️**",
+        "answers": [
+            {
+                "text": "Non, pas du tout.",
+                "correct": true
+            },
+            {
+                "text": "Un vase d’honneur.",
+                "correct": false
+            },
+            {
+                "text": "La colère ou la jalousie.",
+                "correct": false
+            },
+            {
+                "text": "Se garder pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Quels vases sont bien vus dans le verset ? 🌟🏺**",
+        "answers": [
+            {
+                "text": "Vase d’or et vase d’argent.",
+                "correct": false
+            },
+            {
+                "text": "Dans une grande maison.",
+                "correct": false
+            },
+            {
+                "text": "Se garder pur.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’honneur.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Comment sont appelés les autres vases ? 🧺❌**",
+        "answers": [
+            {
+                "text": "Avec ceux qui prient Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Un vase d’honneur.",
+                "correct": false
+            },
+            {
+                "text": "D’un usage vil.",
+                "correct": true
+            },
+            {
+                "text": "Non, pas du tout.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Que doit faire quelqu’un pour être un bon vase ? 🧼📴**",
+        "answers": [
+            {
+                "text": "Se garder pur.",
+                "correct": true
+            },
+            {
+                "text": "Non, pas du tout.",
+                "correct": false
+            },
+            {
+                "text": "Servir Dieu avec un bon cœur.",
+                "correct": false
+            },
+            {
+                "text": "Vase d’or et vase d’argent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Qu’est-ce qu’on devient si on reste pur ? ✨✅**",
+        "answers": [
+            {
+                "text": "La colère ou la jalousie.",
+                "correct": false
+            },
+            {
+                "text": "Un vase d’honneur.",
+                "correct": true
+            },
+            {
+                "text": "D’un usage vil.",
+                "correct": false
+            },
+            {
+                "text": "Avec ceux qui prient Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **À quoi sert un vase d’honneur ? 🎯📖**",
+        "answers": [
+            {
+                "text": "Dans une grande maison.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’honneur.",
+                "correct": false
+            },
+            {
+                "text": "Un vase d’honneur.",
+                "correct": false
+            },
+            {
+                "text": "À servir le maître.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "10. **Que veut dire « utile à son maître » ? 🧰👑**",
+        "answers": [
+            {
+                "text": "Dans une grande maison.",
+                "correct": false
+            },
+            {
+                "text": "La colère ou la jalousie.",
+                "correct": false
+            },
+            {
+                "text": "Servir Dieu avec un bon cœur.",
+                "correct": true
+            },
+            {
+                "text": "La justice, la paix, la foi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Que faut-il fuir selon ce passage ? 🏃‍♂️🔥**",
+        "answers": [
+            {
+                "text": "Vase de bois et de terre.",
+                "correct": false
+            },
+            {
+                "text": "Les passions de la jeunesse.",
+                "correct": true
+            },
+            {
+                "text": "La colère ou la jalousie.",
+                "correct": false
+            },
+            {
+                "text": "D’un usage vil.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Donne un exemple de passion à fuir. ❌💢**",
+        "answers": [
+            {
+                "text": "La colère ou la jalousie.",
+                "correct": true
+            },
+            {
+                "text": "Dans une grande maison.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            },
+            {
+                "text": "D’un usage vil.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Que faut-il chercher à la place ? 🎯✨**",
+        "answers": [
+            {
+                "text": "Non, pas du tout.",
+                "correct": false
+            },
+            {
+                "text": "La justice, la paix, la foi.",
+                "correct": true
+            },
+            {
+                "text": "Vase d’or et vase d’argent.",
+                "correct": false
+            },
+            {
+                "text": "Servir Dieu avec un bon cœur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Avec qui doit-on chercher ces choses ? 🤝🙏**",
+        "answers": [
+            {
+                "text": "La colère ou la jalousie.",
+                "correct": false
+            },
+            {
+                "text": "D’un usage vil.",
+                "correct": false
+            },
+            {
+                "text": "Non, pas du tout.",
+                "correct": false
+            },
+            {
+                "text": "Avec ceux qui prient Dieu.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "15. **Quel type de cœur doit-on avoir ? ❤️🧼**",
+        "answers": [
+            {
+                "text": "Un cœur pur.",
+                "correct": true
+            },
+            {
+                "text": "Se garder pur.",
+                "correct": false
+            },
+            {
+                "text": "Vase d’or et vase d’argent.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’honneur.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "question": "1. **De quel livre vient ce verset avec des anges et des coupes ? 📖😇**",
+        "answers": [
+            {
+                "text": "Une coupe d’or.",
+                "correct": false
+            },
+            {
+                "text": "La colère du Dieu vivant.",
+                "correct": false
+            },
+            {
+                "text": "Du livre de l’Apocalypse.",
+                "correct": true
+            },
+            {
+                "text": "Il vit aux siècles des siècles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Ce verset d’Apocalypse 15:7 parle de qui ? 👼✨**",
+        "answers": [
+            {
+                "text": "Il parle des archanges.",
+                "correct": true
+            },
+            {
+                "text": "De la colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient spirituel.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Combien d’anges reçoivent des coupes dans ce verset ? 🔢🏆**",
+        "answers": [
+            {
+                "text": "On regarde un récipient physique.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": true
+            },
+            {
+                "text": "La colère du Dieu vivant.",
+                "correct": false
+            },
+            {
+                "text": "Il vit aux siècles des siècles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Que reçoit chaque ange dans ses mains ? 🖐️🥇**",
+        "answers": [
+            {
+                "text": "Une coupe d’or.",
+                "correct": true
+            },
+            {
+                "text": "On regarde un récipient physique.",
+                "correct": false
+            },
+            {
+                "text": "Du livre de l’Apocalypse.",
+                "correct": false
+            },
+            {
+                "text": "La colère du Dieu vivant.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Que contient cette coupe d’or brillante ? 💥⚠️**",
+        "answers": [
+            {
+                "text": "La colère du Dieu vivant.",
+                "correct": true
+            },
+            {
+                "text": "Il vit aux siècles des siècles.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": false
+            },
+            {
+                "text": "Il parle des archanges.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Comment Dieu est-il décrit dans ce verset ? 👑🔁**",
+        "answers": [
+            {
+                "text": "On regarde un récipient physique.",
+                "correct": false
+            },
+            {
+                "text": "De la colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient spirituel.",
+                "correct": false
+            },
+            {
+                "text": "Il vit aux siècles des siècles.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "7. **La coupe d’or est comparée à quoi dans ce passage ? 🏺🕊️**",
+        "answers": [
+            {
+                "text": "Un récipient spirituel.",
+                "correct": true
+            },
+            {
+                "text": "De la colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": false
+            },
+            {
+                "text": "Il parle des archanges.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Ce récipient est rempli de quoi exactement ? 🌪️🧪**",
+        "answers": [
+            {
+                "text": "Une coupe d’or.",
+                "correct": false
+            },
+            {
+                "text": "De la colère de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "La colère du Dieu vivant.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient spirituel.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Pour comprendre ce récipient spécial, on fait quoi ? 🔍🧠**",
+        "answers": [
+            {
+                "text": "Il vit aux siècles des siècles.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient spirituel.",
+                "correct": false
+            },
+            {
+                "text": "La colère du Dieu vivant.",
+                "correct": false
+            },
+            {
+                "text": "On regarde un récipient physique.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "question": "1. **À qui Jésus promet une récompense ? 🧍‍♂️👑**",
+        "answers": [
+            {
+                "text": "Non, il l’a reçu du Père.",
+                "correct": false
+            },
+            {
+                "text": "Pouvoir guider et corriger.",
+                "correct": false
+            },
+            {
+                "text": "À celui qui vaincra.",
+                "correct": true
+            },
+            {
+                "text": "Jusqu’à la fin.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Que doit faire celui qui veut vaincre ? 🧍‍♀️📖⏳**",
+        "answers": [
+            {
+                "text": "🪨✅** => D’un fer solide.",
+                "correct": false
+            },
+            {
+                "text": "Non, c’est une verge spirituelle.",
+                "correct": false
+            },
+            {
+                "text": "Garder les œuvres jusqu’à la fin.",
+                "correct": true
+            },
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **De qui sont ces œuvres qu’il faut garder ? ✝️🧠**",
+        "answers": [
+            {
+                "text": "Ce sont les œuvres de Jésus.",
+                "correct": true
+            },
+            {
+                "text": "Jusqu’à la fin.",
+                "correct": false
+            },
+            {
+                "text": "Pouvoir guider et corriger.",
+                "correct": false
+            },
+            {
+                "text": "À celui qui vaincra.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Jusqu’à quand faut-il garder ces œuvres ? ⏳🏁**",
+        "answers": [
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": false
+            },
+            {
+                "text": "Jusqu’à la fin.",
+                "correct": true
+            },
+            {
+                "text": "Garder les œuvres jusqu’à la fin.",
+                "correct": false
+            },
+            {
+                "text": "Non, il l’a reçu du Père.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Que donnera Jésus à celui qui vaincra ? 🎁👑**",
+        "answers": [
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": false
+            },
+            {
+                "text": "Le monde entier.",
+                "correct": false
+            },
+            {
+                "text": "Un bâton pour diriger.",
+                "correct": false
+            },
+            {
+                "text": "Une autorité sur les nations.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Que veut dire “avoir autorité” ici ? ✋👥**",
+        "answers": [
+            {
+                "text": "Avec une verge de fer.",
+                "correct": false
+            },
+            {
+                "text": "Pouvoir guider et corriger.",
+                "correct": true
+            },
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": false
+            },
+            {
+                "text": "Le monde entier.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Qui sont “les nations” dans ce passage ? 🌍👥**",
+        "answers": [
+            {
+                "text": "Jusqu’à la fin.",
+                "correct": false
+            },
+            {
+                "text": "Ce sont les œuvres de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "Le monde entier.",
+                "correct": true
+            },
+            {
+                "text": "Avec une verge de fer.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Avec quoi guidera-t-il les nations ? 🐑🪄**",
+        "answers": [
+            {
+                "text": "Un bâton pour diriger.",
+                "correct": false
+            },
+            {
+                "text": "Ce sont les œuvres de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "À celui qui vaincra.",
+                "correct": false
+            },
+            {
+                "text": "Avec une verge de fer.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "9. **Qu’est-ce qu’une verge dans ce passage ? ⚔️🧠**",
+        "answers": [
+            {
+                "text": "Une autorité sur les nations.",
+                "correct": false
+            },
+            {
+                "text": "Un bâton pour diriger.",
+                "correct": true
+            },
+            {
+                "text": "Non, il l’a reçu du Père.",
+                "correct": false
+            },
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **La verge est-elle une verge normale ? ❌🌳**",
+        "answers": [
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": false
+            },
+            {
+                "text": "Garder les œuvres jusqu’à la fin.",
+                "correct": false
+            },
+            {
+                "text": "Elle brisera les vases d’argile.",
+                "correct": false
+            },
+            {
+                "text": "Non, c’est une verge spirituelle.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "11. **De quoi est faite cette verge ? 🪵❌",
+        "answers": [
+            {
+                "text": "Avec une verge de fer.",
+                "correct": false
+            },
+            {
+                "text": "Ce sont les œuvres de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "Le monde entier.",
+                "correct": false
+            },
+            {
+                "text": "🪨✅** => D’un fer solide.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "12. **Que fera cette verge de fer ? 🪓🏺**",
+        "answers": [
+            {
+                "text": "Elle brisera les vases d’argile.",
+                "correct": true
+            },
+            {
+                "text": "Pouvoir guider et corriger.",
+                "correct": false
+            },
+            {
+                "text": "🪨✅** => D’un fer solide.",
+                "correct": false
+            },
+            {
+                "text": "Jusqu’à la fin.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Les vases sont-ils solides ou fragiles ? ⚱️❌**",
+        "answers": [
+            {
+                "text": "Fragiles comme de l’argile.",
+                "correct": true
+            },
+            {
+                "text": "Garder les œuvres jusqu’à la fin.",
+                "correct": false
+            },
+            {
+                "text": "Avec une verge de fer.",
+                "correct": false
+            },
+            {
+                "text": "Non, il l’a reçu du Père.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Qui a donné ce pouvoir à Jésus ? 👑✝️👆**",
+        "answers": [
+            {
+                "text": "Dieu, le Père.",
+                "correct": true
+            },
+            {
+                "text": "Un bâton pour diriger.",
+                "correct": false
+            },
+            {
+                "text": "🪨✅** => D’un fer solide.",
+                "correct": false
+            },
+            {
+                "text": "Garder les œuvres jusqu’à la fin.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15. **Est-ce que Jésus a reçu ce pouvoir seul ? 🙅‍♂️❌**",
+        "answers": [
+            {
+                "text": "Non, il l’a reçu du Père.",
+                "correct": true
+            },
+            {
+                "text": "Jusqu’à la fin.",
+                "correct": false
+            },
+            {
+                "text": "Ce sont les œuvres de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "🪨✅** => D’un fer solide.",
+                "correct": false
+            }
+        ]
+    }
+]

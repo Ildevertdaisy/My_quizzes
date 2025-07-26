@@ -1,0 +1,191 @@
+[
+    {
+        "question": "1. **Dans Jean 15:3, que dit Jésus sur ses disciples ? 🧍‍♂️✨**",
+        "answers": [
+            {
+                "text": "On devient pur et bon.",
+                "correct": false
+            },
+            {
+                "text": "Elle le rend pur.",
+                "correct": false
+            },
+            {
+                "text": "Ils sont déjà purs.",
+                "correct": true
+            },
+            {
+                "text": "Non, impossible.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Pourquoi sont-ils devenus purs ? 💬📖**",
+        "answers": [
+            {
+                "text": "Écouter la parole de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": true
+            },
+            {
+                "text": "On devient pur et bon.",
+                "correct": false
+            },
+            {
+                "text": "Elle nettoie l’intérieur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Qui a annoncé cette parole ? 👑🗣️**",
+        "answers": [
+            {
+                "text": "Ils sont déjà purs.",
+                "correct": false
+            },
+            {
+                "text": "Écouter la parole de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus.",
+                "correct": true
+            },
+            {
+                "text": "Elle nettoie l’intérieur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **La parole de Jésus fait quoi à notre cœur ? 💗🧼**",
+        "answers": [
+            {
+                "text": "Non, impossible.",
+                "correct": false
+            },
+            {
+                "text": "On devient pur et bon.",
+                "correct": false
+            },
+            {
+                "text": "Écouter la parole de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "Elle le rend pur.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Que veut dire “être pur” ici ? 🧽❤️**",
+        "answers": [
+            {
+                "text": "Avoir un cœur propre.",
+                "correct": true
+            },
+            {
+                "text": "Ils sont déjà purs.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Elle nettoie l’intérieur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Peut-on être pur sans sa parole ? 📖❌**",
+        "answers": [
+            {
+                "text": "Non, impossible.",
+                "correct": true
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus.",
+                "correct": false
+            },
+            {
+                "text": "Elle le rend pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Comment la parole de Dieu agit ? 💬💦**",
+        "answers": [
+            {
+                "text": "Avoir un cœur propre.",
+                "correct": false
+            },
+            {
+                "text": "Elle nettoie l’intérieur.",
+                "correct": true
+            },
+            {
+                "text": "Elle le rend pur.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Que doit-on faire pour devenir pur ? 👂📖**",
+        "answers": [
+            {
+                "text": "Écouter la parole de Jésus.",
+                "correct": true
+            },
+            {
+                "text": "Avoir un cœur propre.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Elle le rend pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Que se passe-t-il quand on reçoit la parole ? 💗📘✨**",
+        "answers": [
+            {
+                "text": "On devient pur et bon.",
+                "correct": true
+            },
+            {
+                "text": "Écouter la parole de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus.",
+                "correct": false
+            },
+            {
+                "text": "Avoir un cœur propre.",
+                "correct": false
+            }
+        ]
+    }
+]

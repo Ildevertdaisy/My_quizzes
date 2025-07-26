@@ -1,0 +1,170 @@
+[
+    {
+        "question": "1. **Dans ce verset, à quoi Dieu compare-t-il ses instructions ? 📘🌧️**",
+        "answers": [
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": true
+            },
+            {
+                "text": "Il faut ajouter de l’eau.",
+                "correct": false
+            },
+            {
+                "text": "Comme la rosée du matin.",
+                "correct": false
+            },
+            {
+                "text": "Elle fait pousser comme la pluie.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Et sa parole, elle tombe comme quoi ? 🌫️💧**",
+        "answers": [
+            {
+                "text": "Il faut ajouter de l’eau.",
+                "correct": false
+            },
+            {
+                "text": "Comme la rosée du matin.",
+                "correct": true
+            },
+            {
+                "text": "Pour créer un récipient utile.",
+                "correct": false
+            },
+            {
+                "text": "Elle fait pousser comme la pluie.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Sur quoi tombent les ondées de Dieu ? 🌱🌦️**",
+        "answers": [
+            {
+                "text": "Il faut ajouter de l’eau.",
+                "correct": false
+            },
+            {
+                "text": "Elle fait pousser comme la pluie.",
+                "correct": false
+            },
+            {
+                "text": "On forme un récipient.",
+                "correct": false
+            },
+            {
+                "text": "Sur la verdure bien fraîche.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "4. **Les gouttes d’eau tombent aussi sur quoi ? 💦🌿**",
+        "answers": [
+            {
+                "text": "Sur la verdure bien fraîche.",
+                "correct": false
+            },
+            {
+                "text": "Il faut ajouter de l’eau.",
+                "correct": false
+            },
+            {
+                "text": "Pour créer un récipient utile.",
+                "correct": false
+            },
+            {
+                "text": "Sur l’herbe verte.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Pourquoi Dieu compare sa parole à l’eau ? 📖💧**",
+        "answers": [
+            {
+                "text": "Il faut ajouter de l’eau.",
+                "correct": false
+            },
+            {
+                "text": "Sur l’herbe verte.",
+                "correct": false
+            },
+            {
+                "text": "Pour créer un récipient utile.",
+                "correct": false
+            },
+            {
+                "text": "Elle fait pousser comme la pluie.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Dans l’image du texte, que faut-il mélanger à la terre ? 🌍➕💧**",
+        "answers": [
+            {
+                "text": "Il faut ajouter de l’eau.",
+                "correct": true
+            },
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": false
+            },
+            {
+                "text": "Elle fait pousser comme la pluie.",
+                "correct": false
+            },
+            {
+                "text": "Sur l’herbe verte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Quand la terre et l’eau se mélangent, que forme-t-on ? 🏺✨**",
+        "answers": [
+            {
+                "text": "On forme un récipient.",
+                "correct": true
+            },
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": false
+            },
+            {
+                "text": "Pour créer un récipient utile.",
+                "correct": false
+            },
+            {
+                "text": "Sur la verdure bien fraîche.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Pourquoi Dieu veut assembler la terre et l’eau ? ✋🫙**",
+        "answers": [
+            {
+                "text": "Pour créer un récipient utile.",
+                "correct": true
+            },
+            {
+                "text": "Comme la rosée du matin.",
+                "correct": false
+            },
+            {
+                "text": "Sur la verdure bien fraîche.",
+                "correct": false
+            },
+            {
+                "text": "Sur l’herbe verte.",
+                "correct": false
+            }
+        ]
+    }
+]

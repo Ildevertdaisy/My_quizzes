@@ -1,0 +1,149 @@
+[
+    {
+        "question": "1. **Quel est le nom de la personne qui parle dans ce passage (Philippiens 3:5-8) ? 👤📘**",
+        "answers": [
+            {
+                "text": "L’apôtre Paul.",
+                "correct": true
+            },
+            {
+                "text": "Pour gagner le cœur de Christ.",
+                "correct": false
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            },
+            {
+                "text": "Comme une perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Avant, Paul pensait avoir quoi de précieux ? 🏆📜**",
+        "answers": [
+            {
+                "text": "Des choses gagnées.",
+                "correct": true
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "Comme une perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Que faisait Paul avec beaucoup de zèle ? 🔥👣**",
+        "answers": [
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": true
+            },
+            {
+                "text": "Comme une perte.",
+                "correct": false
+            },
+            {
+                "text": "Comme de la boue.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Après avoir connu Jésus, comment voit-il ces choses ? 📦❌**",
+        "answers": [
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            },
+            {
+                "text": "Pour gagner le cœur de Christ.",
+                "correct": false
+            },
+            {
+                "text": "Comme une perte.",
+                "correct": true
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Pourquoi Paul dit que c’est une perte ? 😔✝️**",
+        "answers": [
+            {
+                "text": "Comme une perte.",
+                "correct": false
+            },
+            {
+                "text": "Des choses gagnées.",
+                "correct": false
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": true
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Comment il voit maintenant ses anciennes richesses ? 🗑️💩**",
+        "answers": [
+            {
+                "text": "Comme de la boue.",
+                "correct": true
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            },
+            {
+                "text": "Comme une perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Pourquoi Paul a tout laissé ? 🎯💖**",
+        "answers": [
+            {
+                "text": "Pour gagner le cœur de Christ.",
+                "correct": true
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "Comme une perte.",
+                "correct": false
+            },
+            {
+                "text": "Comme de la boue.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "question": "1. (Apocalypse 6:5-7) 5 Quand il ouvrit ___, j'entendis le ___ qui disait: ___.",
+        "answers": [
+            {
+                "text": "mesures d'orge, ne fais point de mal, l'huile, vin",
+                "correct": false
+            },
+            {
+                "text": "regardai, un cheval noir, une balance dans sa main",
+                "correct": false
+            },
+            {
+                "text": "au milieu des quatre êtres vivants, Une mesure de blé",
+                "correct": false
+            },
+            {
+                "text": "le troisième sceau, troisième être vivant, Viens",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. (Apocalypse 6:5-7) 5 Je ___, et voici, parut ___. Celui qui le montait tenait ___.",
+        "answers": [
+            {
+                "text": "le troisième sceau, troisième être vivant, Viens",
+                "correct": false
+            },
+            {
+                "text": "mesures d'orge, ne fais point de mal, l'huile, vin",
+                "correct": false
+            },
+            {
+                "text": "au milieu des quatre êtres vivants, Une mesure de blé",
+                "correct": false
+            },
+            {
+                "text": "regardai, un cheval noir, une balance dans sa main",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. (Apocalypse 6:5-7) 6 Et j'entendis ___ une voix qui disait: ___ pour un denier,",
+        "answers": [
+            {
+                "text": "au milieu des quatre êtres vivants, Une mesure de blé",
+                "correct": true
+            },
+            {
+                "text": "mesures d'orge, ne fais point de mal, l'huile, vin",
+                "correct": false
+            },
+            {
+                "text": "regardai, un cheval noir, une balance dans sa main",
+                "correct": false
+            },
+            {
+                "text": "le troisième sceau, troisième être vivant, Viens",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. (Apocalypse 6:5-7) 6 et trois ___ pour un denier; mais ___ à ___ et au ___.",
+        "answers": [
+            {
+                "text": "regardai, un cheval noir, une balance dans sa main",
+                "correct": false
+            },
+            {
+                "text": "le troisième sceau, troisième être vivant, Viens",
+                "correct": false
+            },
+            {
+                "text": "mesures d'orge, ne fais point de mal, l'huile, vin",
+                "correct": true
+            },
+            {
+                "text": "au milieu des quatre êtres vivants, Une mesure de blé",
+                "correct": false
+            }
+        ]
+    }
+]

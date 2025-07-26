@@ -1,0 +1,317 @@
+[
+    {
+        "question": "1. **Dans une grande maison, combien de types de vases y a-t-il (2 Timothée 2:20-22) ? 🏠🧺**",
+        "answers": [
+            {
+                "text": "Deux types différents.",
+                "correct": true
+            },
+            {
+                "text": "Les vases d’or et d’argent.",
+                "correct": false
+            },
+            {
+                "text": "Il doit rester pur.",
+                "correct": false
+            },
+            {
+                "text": "Être pur et rempli de sa parole.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Quels sont les vases les plus précieux ? 🥇✨**",
+        "answers": [
+            {
+                "text": "Non, on est différents.",
+                "correct": false
+            },
+            {
+                "text": "Un vase utile à Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’or et d’argent.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. **Quels sont les autres vases moins beaux ? 🌳🪵🧱**",
+        "answers": [
+            {
+                "text": "Les vases de bois et de terre.",
+                "correct": true
+            },
+            {
+                "text": "Si j’apprends sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Il doit rester pur.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’or et d’argent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Est-ce que tous les vases servent à la même chose ? ❓⚖️**",
+        "answers": [
+            {
+                "text": "Un vase utile à Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour nous changer.",
+                "correct": false
+            },
+            {
+                "text": "Non, pas du tout.",
+                "correct": true
+            },
+            {
+                "text": "Deux types différents.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Quels vases sont utilisés pour des choses spéciales ? 🌟🏺**",
+        "answers": [
+            {
+                "text": "Il doit rester pur.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’or et d’argent.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’honneur.",
+                "correct": true
+            },
+            {
+                "text": "Non, pas du tout.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Que veut dire « sanctifié » dans ce verset ? ✨🧼**",
+        "answers": [
+            {
+                "text": "Un vase utile à Dieu.",
+                "correct": false
+            },
+            {
+                "text": "En se gardant pur.",
+                "correct": false
+            },
+            {
+                "text": "Être pur et rempli de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Cela veut dire pur.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "7. **Un vase d’honneur doit rester comment ? 🧺🧼**",
+        "answers": [
+            {
+                "text": "👑** => À son image parfaite.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’honneur.",
+                "correct": false
+            },
+            {
+                "text": "Les vases de bois et de terre.",
+                "correct": false
+            },
+            {
+                "text": "Il doit rester pur.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "8. **Comment on devient un vase utile à Dieu ? ✋📖**",
+        "answers": [
+            {
+                "text": "Cela veut dire pur.",
+                "correct": false
+            },
+            {
+                "text": "Non, pas du tout.",
+                "correct": false
+            },
+            {
+                "text": "En se gardant pur.",
+                "correct": true
+            },
+            {
+                "text": "Les vases d’or et d’argent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Dieu regarde-t-il d’abord à l’apparence ? 👀✨**",
+        "answers": [
+            {
+                "text": "En se gardant pur.",
+                "correct": false
+            },
+            {
+                "text": "Non, jamais.",
+                "correct": true
+            },
+            {
+                "text": "Cela veut dire pur.",
+                "correct": false
+            },
+            {
+                "text": "Les vases de bois et de terre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Qu’est-ce que Dieu regarde en premier ? 👂📖**",
+        "answers": [
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "Si j’apprends sa parole.",
+                "correct": true
+            },
+            {
+                "text": "Non, on est différents.",
+                "correct": false
+            },
+            {
+                "text": "Il doit rester pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Pourquoi Dieu veut qu’on apprenne sa parole ? 📘🧠**",
+        "answers": [
+            {
+                "text": "Pour nous changer.",
+                "correct": true
+            },
+            {
+                "text": "Un vase utile à Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’or et d’argent.",
+                "correct": false
+            },
+            {
+                "text": "Les vases d’honneur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Quand je me remplis de la parole, je deviens quoi ? 🧺📖✨**",
+        "answers": [
+            {
+                "text": "Un vase utile à Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Cela veut dire pur.",
+                "correct": false
+            },
+            {
+                "text": "Il doit rester pur.",
+                "correct": false
+            },
+            {
+                "text": "Si j’apprends sa parole.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Dieu veut nous changer à quelle image ? 👤",
+        "answers": [
+            {
+                "text": "👑** => À son image parfaite.",
+                "correct": true
+            },
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "Les vases de bois et de terre.",
+                "correct": false
+            },
+            {
+                "text": "En se gardant pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Est-ce qu’on est tous pareils ? 👥⚖️**",
+        "answers": [
+            {
+                "text": "Il doit rester pur.",
+                "correct": false
+            },
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "👑** => À son image parfaite.",
+                "correct": false
+            },
+            {
+                "text": "Non, on est différents.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "15. **Qu’est-ce que je dois faire pour devenir un vase d’honneur ? 🧽📖🛐**",
+        "answers": [
+            {
+                "text": "En se gardant pur.",
+                "correct": false
+            },
+            {
+                "text": "Pour nous changer.",
+                "correct": false
+            },
+            {
+                "text": "Si j’apprends sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Être pur et rempli de sa parole.",
+                "correct": true
+            }
+        ]
+    }
+]

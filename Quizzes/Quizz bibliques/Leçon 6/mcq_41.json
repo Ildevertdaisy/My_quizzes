@@ -1,0 +1,86 @@
+[
+    {
+        "question": "1. (Apocalypse 1 : 20) le mystère des ___ que tu as vues dans ma ___,",
+        "answers": [
+            {
+                "text": "sept chandeliers d'or",
+                "correct": false
+            },
+            {
+                "text": "sept étoiles, main droite",
+                "correct": true
+            },
+            {
+                "text": "les anges, Églises",
+                "correct": false
+            },
+            {
+                "text": "sept chandeliers, sept",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. (Apocalypse 1 : 20) et des ___.",
+        "answers": [
+            {
+                "text": "sept chandeliers, sept",
+                "correct": false
+            },
+            {
+                "text": "sept chandeliers d'or",
+                "correct": true
+            },
+            {
+                "text": "les anges, Églises",
+                "correct": false
+            },
+            {
+                "text": "sept étoiles, main droite",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. (Apocalypse 1 : 20) Les sept étoiles sont ___ des sept ___,",
+        "answers": [
+            {
+                "text": "sept chandeliers, sept",
+                "correct": false
+            },
+            {
+                "text": "sept étoiles, main droite",
+                "correct": false
+            },
+            {
+                "text": "les anges, Églises",
+                "correct": true
+            },
+            {
+                "text": "sept chandeliers d'or",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. (Apocalypse 1 : 20) et les ___ sont les ___ Églises.",
+        "answers": [
+            {
+                "text": "sept chandeliers, sept",
+                "correct": true
+            },
+            {
+                "text": "les anges, Églises",
+                "correct": false
+            },
+            {
+                "text": "sept étoiles, main droite",
+                "correct": false
+            },
+            {
+                "text": "sept chandeliers d'or",
+                "correct": false
+            }
+        ]
+    }
+]

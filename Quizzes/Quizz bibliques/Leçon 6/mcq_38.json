@@ -1,0 +1,86 @@
+[
+    {
+        "question": "10.1 Thessalonicien 5 : 1 - 6 | 4 Mais vous, ___, vous n'êtes pas dans les ___,",
+        "answers": [
+            {
+                "text": "surprenne,voleur",
+                "correct": false
+            },
+            {
+                "text": "enfants, du jour",
+                "correct": false
+            },
+            {
+                "text": "nuit, ténèbres",
+                "correct": false
+            },
+            {
+                "text": "frères, ténèbres",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "11.1 Thessalonicien 5 : 1 - 6 | 4 pour que ce jour vous ___ comme un ___;",
+        "answers": [
+            {
+                "text": "enfants, du jour",
+                "correct": false
+            },
+            {
+                "text": "frères, ténèbres",
+                "correct": false
+            },
+            {
+                "text": "nuit, ténèbres",
+                "correct": false
+            },
+            {
+                "text": "surprenne,voleur",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "12.1 Thessalonicien 5 : 1 - 6 | 5 vous êtes tous des ___ de la lumière et des enfants ___.",
+        "answers": [
+            {
+                "text": "nuit, ténèbres",
+                "correct": false
+            },
+            {
+                "text": "surprenne,voleur",
+                "correct": false
+            },
+            {
+                "text": "enfants, du jour",
+                "correct": true
+            },
+            {
+                "text": "frères, ténèbres",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13.1 Thessalonicien 5 : 1 - 6 | 5 Nous ne sommes point de la ___ ni des ___.",
+        "answers": [
+            {
+                "text": "nuit, ténèbres",
+                "correct": true
+            },
+            {
+                "text": "enfants, du jour",
+                "correct": false
+            },
+            {
+                "text": "frères, ténèbres",
+                "correct": false
+            },
+            {
+                "text": "surprenne,voleur",
+                "correct": false
+            }
+        ]
+    }
+]

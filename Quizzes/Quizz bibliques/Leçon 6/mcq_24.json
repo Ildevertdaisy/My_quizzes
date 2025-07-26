@@ -1,0 +1,212 @@
+[
+    {
+        "question": "1. **Qu’est-ce qui purifie notre âme selon le verset 1 Pierre 1:22 ? 🧼📖**",
+        "answers": [
+            {
+                "text": "Obéir à la vérité.",
+                "correct": true
+            },
+            {
+                "text": "Des croyants obéissants.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Que veut dire “obéir à la vérité” ? 👂📘**",
+        "answers": [
+            {
+                "text": "Écouter et faire ce que Dieu dit.",
+                "correct": true
+            },
+            {
+                "text": "Obéir à la vérité.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Quand on obéit à Dieu, notre cœur devient comment ? 💖✨**",
+        "answers": [
+            {
+                "text": "Obéir à la vérité.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": true
+            },
+            {
+                "text": "Deux types de vases.",
+                "correct": false
+            },
+            {
+                "text": "Écouter et faire ce que Dieu dit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Que doivent devenir les croyants ? 🙋‍♂️📖**",
+        "answers": [
+            {
+                "text": "Un cœur propre et obéissant.",
+                "correct": false
+            },
+            {
+                "text": "Deux types de vases.",
+                "correct": false
+            },
+            {
+                "text": "Pour qu’on l’aime et le suive.",
+                "correct": false
+            },
+            {
+                "text": "Des croyants obéissants.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Un croyant obéissant écoute qui ? 👂👑**",
+        "answers": [
+            {
+                "text": "Pour qu’on l’aime et le suive.",
+                "correct": false
+            },
+            {
+                "text": "Il écoute Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Deux types de vases.",
+                "correct": false
+            },
+            {
+                "text": "Écouter et faire ce que Dieu dit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Dans la Bible, Dieu parle de deux types de quoi ? 🏺⚖️**",
+        "answers": [
+            {
+                "text": "Pour qu’on l’aime et le suive.",
+                "correct": false
+            },
+            {
+                "text": "Obéir à la vérité.",
+                "correct": false
+            },
+            {
+                "text": "Deux types de vases.",
+                "correct": true
+            },
+            {
+                "text": "Des croyants obéissants.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **C’est quoi un vase d’honneur ? 🏺✨**",
+        "answers": [
+            {
+                "text": "Un cœur pur.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur propre et obéissant.",
+                "correct": false
+            },
+            {
+                "text": "Deux types de vases.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Et un vase d’un usage vil ? 🏺❌**",
+        "answers": [
+            {
+                "text": "Un cœur sale.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur propre et obéissant.",
+                "correct": false
+            },
+            {
+                "text": "Deux types de vases.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Que veut Dieu pour notre cœur ? ❤️🧽**",
+        "answers": [
+            {
+                "text": "Un cœur propre et obéissant.",
+                "correct": true
+            },
+            {
+                "text": "Pour qu’on l’aime et le suive.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur pur.",
+                "correct": false
+            },
+            {
+                "text": "Il écoute Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Pourquoi Dieu veut un cœur pur ? 📖🧼**",
+        "answers": [
+            {
+                "text": "Il écoute Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Des croyants obéissants.",
+                "correct": false
+            },
+            {
+                "text": "Pour qu’on l’aime et le suive.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur sale.",
+                "correct": false
+            }
+        ]
+    }
+]

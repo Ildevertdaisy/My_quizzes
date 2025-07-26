@@ -1,0 +1,338 @@
+[
+    {
+        "question": "1. **Quel moment très spécial vivons-nous maintenant (Apocalypse 22:18-19)? ⏳📖**",
+        "answers": [
+            {
+                "text": "Le temps où l’Apocalypse s’accomplit.",
+                "correct": true
+            },
+            {
+                "text": "Celui qui lit ou écoute le message.",
+                "correct": false
+            },
+            {
+                "text": "Ne rien ajouter ni enlever.",
+                "correct": false
+            },
+            {
+                "text": "À tous ceux qui entendent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Quel livre parle de la fin et des choses à venir ? 📘🕊️**",
+        "answers": [
+            {
+                "text": "Dieu lui enlève sa part de vie.",
+                "correct": false
+            },
+            {
+                "text": "Le livre de l’Apocalypse.",
+                "correct": true
+            },
+            {
+                "text": "C’est Dieu qui le fait.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne doit pas être changée.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Que contient ce livre de l’Apocalypse ? 📜👀**",
+        "answers": [
+            {
+                "text": "Elle ne doit pas être changée.",
+                "correct": false
+            },
+            {
+                "text": "Des paroles de prophétie.",
+                "correct": true
+            },
+            {
+                "text": "Nous recevons la parole dans le cœur.",
+                "correct": false
+            },
+            {
+                "text": "À tous ceux qui entendent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Qui entend les paroles de ce livre ? 👂📖**",
+        "answers": [
+            {
+                "text": "Non, il est très spécial.",
+                "correct": false
+            },
+            {
+                "text": "Celui qui lit ou écoute le message.",
+                "correct": true
+            },
+            {
+                "text": "Le livre de l’Apocalypse.",
+                "correct": false
+            },
+            {
+                "text": "Car il parle de vie ou de perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Que dit Dieu à ceux qui entendent ce livre ? 📣📝**",
+        "answers": [
+            {
+                "text": "Dieu lui enlève sa part de vie.",
+                "correct": false
+            },
+            {
+                "text": "Car il parle de vie ou de perte.",
+                "correct": false
+            },
+            {
+                "text": "Le livre de l’Apocalypse.",
+                "correct": false
+            },
+            {
+                "text": "Ne rien ajouter ni enlever.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Si quelqu’un ajoute des choses au livre, que fait Dieu ? ➕⚠️**",
+        "answers": [
+            {
+                "text": "Non, il est très spécial.",
+                "correct": false
+            },
+            {
+                "text": "Il lui envoie les fléaux du livre.",
+                "correct": true
+            },
+            {
+                "text": "Celui qui lit ou écoute le message.",
+                "correct": false
+            },
+            {
+                "text": "Nous recevons la parole dans le cœur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **C’est quoi un fléau dans ce verset ? 💥😨**",
+        "answers": [
+            {
+                "text": "Dieu lui enlève sa part de vie.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne doit pas être changée.",
+                "correct": false
+            },
+            {
+                "text": "Un malheur envoyé par Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Non, il est très spécial.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Et si quelqu’un enlève des paroles du livre ? ➖📖**",
+        "answers": [
+            {
+                "text": "Sa part de l’arbre de la vie.",
+                "correct": false
+            },
+            {
+                "text": "Un malheur envoyé par Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Dieu lui enlève sa part de vie.",
+                "correct": true
+            },
+            {
+                "text": "Écouter et garder les paroles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Quelle part sera enlevée à celui qui retranche ? 🌳🚫**",
+        "answers": [
+            {
+                "text": "Un malheur envoyé par Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Sa part de l’arbre de la vie.",
+                "correct": true
+            },
+            {
+                "text": "Elle ne doit pas être changée.",
+                "correct": false
+            },
+            {
+                "text": "Celui qui lit ou écoute le message.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Qui punit si on modifie la prophétie ? ⚖️🙅‍♂️**",
+        "answers": [
+            {
+                "text": "C’est Dieu qui le fait.",
+                "correct": true
+            },
+            {
+                "text": "Il lui envoie les fléaux du livre.",
+                "correct": false
+            },
+            {
+                "text": "Sa part de l’arbre de la vie.",
+                "correct": false
+            },
+            {
+                "text": "Car il parle de vie ou de perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Que doit faire celui qui lit l’Apocalypse ? 📚🧠**",
+        "answers": [
+            {
+                "text": "Dieu lui enlève sa part de vie.",
+                "correct": false
+            },
+            {
+                "text": "Écouter et garder les paroles.",
+                "correct": true
+            },
+            {
+                "text": "À tous ceux qui entendent.",
+                "correct": false
+            },
+            {
+                "text": "Non, il est très spécial.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Est-ce que ce livre est comme les autres ? 📕📘❌**",
+        "answers": [
+            {
+                "text": "Écouter et garder les paroles.",
+                "correct": false
+            },
+            {
+                "text": "Non, il est très spécial.",
+                "correct": true
+            },
+            {
+                "text": "C’est Dieu qui le fait.",
+                "correct": false
+            },
+            {
+                "text": "Car il parle de vie ou de perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **À qui Dieu parle-t-il dans ce verset ? 🙋‍♀️📖**",
+        "answers": [
+            {
+                "text": "À tous ceux qui entendent.",
+                "correct": true
+            },
+            {
+                "text": "Non, il est très spécial.",
+                "correct": false
+            },
+            {
+                "text": "Celui qui lit ou écoute le message.",
+                "correct": false
+            },
+            {
+                "text": "Des paroles de prophétie.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Pourquoi ce message est-il sérieux ? ⚠️🗝️**",
+        "answers": [
+            {
+                "text": "Le livre de l’Apocalypse.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui le fait.",
+                "correct": false
+            },
+            {
+                "text": "Car il parle de vie ou de perte.",
+                "correct": true
+            },
+            {
+                "text": "Écouter et garder les paroles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15. **Que montre ce verset sur la Parole de Dieu ? 📖🔐**",
+        "answers": [
+            {
+                "text": "Des paroles de prophétie.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne doit pas être changée.",
+                "correct": true
+            },
+            {
+                "text": "Ne rien ajouter ni enlever.",
+                "correct": false
+            },
+            {
+                "text": "Écouter et garder les paroles.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "16. **Quel est le lien avec nous et le récipient ? 💗📦**",
+        "answers": [
+            {
+                "text": "Non, il est très spécial.",
+                "correct": false
+            },
+            {
+                "text": "Un malheur envoyé par Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Nous recevons la parole dans le cœur.",
+                "correct": true
+            },
+            {
+                "text": "Car il parle de vie ou de perte.",
+                "correct": false
+            }
+        ]
+    }
+]

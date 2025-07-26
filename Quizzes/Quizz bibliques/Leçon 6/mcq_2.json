@@ -1,0 +1,107 @@
+[
+    {
+        "question": "1. **Que fait une personne qui aime vraiment Dieu chaque jour ? 📖🌞🌙**",
+        "answers": [
+            {
+                "text": "Lire la Bible et y penser souvent.",
+                "correct": false
+            },
+            {
+                "text": "Tout ce qu’elle fait marche bien.",
+                "correct": false
+            },
+            {
+                "text": "Le jour et aussi la nuit.",
+                "correct": false
+            },
+            {
+                "text": "Elle pense à sa parole jour et nuit.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **C’est quoi “méditer la parole de Dieu” pour un enfant ? 🤔📖**",
+        "answers": [
+            {
+                "text": "Lire la Bible et y penser souvent.",
+                "correct": true
+            },
+            {
+                "text": "Tout ce qu’elle fait marche bien.",
+                "correct": false
+            },
+            {
+                "text": "Le jour et aussi la nuit.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’elle aime la parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Combien de fois dans la journée cette personne pense à Dieu ? 🕐🕛**",
+        "answers": [
+            {
+                "text": "Tout ce qu’elle fait marche bien.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’elle aime la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le jour et aussi la nuit.",
+                "correct": true
+            },
+            {
+                "text": "Elle pense à sa parole jour et nuit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Quand cette personne fait des choses, que se passe-t-il ? 💪🎯**",
+        "answers": [
+            {
+                "text": "Tout ce qu’elle fait marche bien.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’elle aime la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le jour et aussi la nuit.",
+                "correct": false
+            },
+            {
+                "text": "Lire la Bible et y penser souvent.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Pourquoi tout lui réussit ? ✨📘**",
+        "answers": [
+            {
+                "text": "Tout ce qu’elle fait marche bien.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’elle aime la parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Elle pense à sa parole jour et nuit.",
+                "correct": false
+            },
+            {
+                "text": "Le jour et aussi la nuit.",
+                "correct": false
+            }
+        ]
+    }
+]

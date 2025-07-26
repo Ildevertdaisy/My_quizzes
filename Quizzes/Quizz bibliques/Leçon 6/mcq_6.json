@@ -1,0 +1,128 @@
+[
+    {
+        "question": "1. **De quoi parle le verset d’Apocalypse 15:7 ? 📖😇**",
+        "answers": [
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Car il explique une vérité de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Une coupe d’or spéciale.",
+                "correct": false
+            },
+            {
+                "text": "D’archanges et de coupes d’or.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **Que reçoit chaque ange dans ce verset ? 👼🏆**",
+        "answers": [
+            {
+                "text": "Une coupe d’or spéciale.",
+                "correct": true
+            },
+            {
+                "text": "Ses caractéristiques physiques.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Car il explique une vérité de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Qu’y a-t-il dans chaque coupe d’or ? ⚠️🔥**",
+        "answers": [
+            {
+                "text": "D’archanges et de coupes d’or.",
+                "correct": false
+            },
+            {
+                "text": "Une coupe d’or spéciale.",
+                "correct": false
+            },
+            {
+                "text": "Ses caractéristiques physiques.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "4. **La coupe d’or est appelée comment dans ce texte ? 🏺✝️**",
+        "answers": [
+            {
+                "text": "D’archanges et de coupes d’or.",
+                "correct": false
+            },
+            {
+                "text": "Ses caractéristiques physiques.",
+                "correct": false
+            },
+            {
+                "text": "Car il explique une vérité de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient spirituel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Pour comprendre ce récipient, que faut-il d’abord connaître ? 🔍⚙️**",
+        "answers": [
+            {
+                "text": "Car il explique une vérité de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Une coupe d’or spéciale.",
+                "correct": false
+            },
+            {
+                "text": "D’archanges et de coupes d’or.",
+                "correct": false
+            },
+            {
+                "text": "Ses caractéristiques physiques.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Pourquoi on parle d’un récipient spirituel ? 💭📘**",
+        "answers": [
+            {
+                "text": "Une coupe d’or spéciale.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient spirituel.",
+                "correct": false
+            },
+            {
+                "text": "Car il explique une vérité de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "D’archanges et de coupes d’or.",
+                "correct": false
+            }
+        ]
+    }
+]

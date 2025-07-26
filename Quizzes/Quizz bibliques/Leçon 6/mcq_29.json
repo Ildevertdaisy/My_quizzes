@@ -1,0 +1,128 @@
+[
+    {
+        "question": "1. (Apocalypse 2:26-27) 26 A ___, et qui ___ mes oeuvres",
+        "answers": [
+            {
+                "text": "une verge de fer,  les vases d'argile",
+                "correct": false
+            },
+            {
+                "text": "celui qui vaincra, gardera jusqu'à la fin",
+                "correct": true
+            },
+            {
+                "text": "la piété, les sacrifices",
+                "correct": false
+            },
+            {
+                "text": "autorité sur",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. (Apocalypse 2:26-27) 26, je donnerai ___ les nations.",
+        "answers": [
+            {
+                "text": "la connaissance de Dieu, les holocaustes",
+                "correct": false
+            },
+            {
+                "text": "autorité sur",
+                "correct": true
+            },
+            {
+                "text": "moi-même, reçu le pouvoir",
+                "correct": false
+            },
+            {
+                "text": "une verge de fer,  les vases d'argile",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. (Apocalypse 2:26-27) 27 Il les paîtra avec ___, comme on brise ___,",
+        "answers": [
+            {
+                "text": "une verge de fer,  les vases d'argile",
+                "correct": true
+            },
+            {
+                "text": "moi-même, reçu le pouvoir",
+                "correct": false
+            },
+            {
+                "text": "autorité sur",
+                "correct": false
+            },
+            {
+                "text": "la connaissance de Dieu, les holocaustes",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. (Apocalypse 2:26-27) 27 ainsi que ___ j'en ai ___ de mon Père.",
+        "answers": [
+            {
+                "text": "moi-même, reçu le pouvoir",
+                "correct": true
+            },
+            {
+                "text": "une verge de fer,  les vases d'argile",
+                "correct": false
+            },
+            {
+                "text": "la piété, les sacrifices",
+                "correct": false
+            },
+            {
+                "text": "celui qui vaincra, gardera jusqu'à la fin",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. (osee 6 : 6) Car j'aime ___ et non ___",
+        "answers": [
+            {
+                "text": "la piété, les sacrifices",
+                "correct": true
+            },
+            {
+                "text": "une verge de fer,  les vases d'argile",
+                "correct": false
+            },
+            {
+                "text": "autorité sur",
+                "correct": false
+            },
+            {
+                "text": "la connaissance de Dieu, les holocaustes",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. (osee 6 : 6) Et ___ plus que ___.",
+        "answers": [
+            {
+                "text": "autorité sur",
+                "correct": false
+            },
+            {
+                "text": "une verge de fer,  les vases d'argile",
+                "correct": false
+            },
+            {
+                "text": "la piété, les sacrifices",
+                "correct": false
+            },
+            {
+                "text": "la connaissance de Dieu, les holocaustes",
+                "correct": true
+            }
+        ]
+    }
+]

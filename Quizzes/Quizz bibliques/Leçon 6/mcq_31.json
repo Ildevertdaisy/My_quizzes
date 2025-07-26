@@ -1,0 +1,170 @@
+[
+    {
+        "question": "1. **Dans la Bible, qu’est-ce qu’une verge ? 🦯📖**",
+        "answers": [
+            {
+                "text": "Une personne âgée.",
+                "correct": false
+            },
+            {
+                "text": "Un bâton solide.",
+                "correct": true
+            },
+            {
+                "text": "À marcher sans tomber.",
+                "correct": false
+            },
+            {
+                "text": "Briser ou casser.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **À quoi sert une verge pour une personne aveugle ? 👨‍🦯🛑**",
+        "answers": [
+            {
+                "text": "D’un roi qui règne.",
+                "correct": false
+            },
+            {
+                "text": "Une personne âgée.",
+                "correct": false
+            },
+            {
+                "text": "À marcher sans tomber.",
+                "correct": true
+            },
+            {
+                "text": "À faire obéir.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Pourquoi la verge est importante pour les aveugles ? 👁️❌🦯**",
+        "answers": [
+            {
+                "text": "Une personne âgée.",
+                "correct": false
+            },
+            {
+                "text": "Elle aide à se guider.",
+                "correct": true
+            },
+            {
+                "text": "Une grande autorité.",
+                "correct": false
+            },
+            {
+                "text": "À marcher sans tomber.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Qui utilise aussi la verge pour marcher lentement ? 👵🚶‍♂️**",
+        "answers": [
+            {
+                "text": "Une grande autorité.",
+                "correct": false
+            },
+            {
+                "text": "Elle aide à se guider.",
+                "correct": false
+            },
+            {
+                "text": "Une personne âgée.",
+                "correct": true
+            },
+            {
+                "text": "À faire obéir.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Dans la Bible, la verge est aussi un symbole de quoi ? 👑🦯**",
+        "answers": [
+            {
+                "text": "D’un roi qui règne.",
+                "correct": true
+            },
+            {
+                "text": "Une personne âgée.",
+                "correct": false
+            },
+            {
+                "text": "Elle aide à se guider.",
+                "correct": false
+            },
+            {
+                "text": "Un bâton solide.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Celui qui tient la verge a quoi ? ✋⚡**",
+        "answers": [
+            {
+                "text": "Une grande autorité.",
+                "correct": true
+            },
+            {
+                "text": "Un bâton solide.",
+                "correct": false
+            },
+            {
+                "text": "Briser ou casser.",
+                "correct": false
+            },
+            {
+                "text": "Une personne âgée.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **La verge aide à faire quoi aux autres ? 🗣️👣**",
+        "answers": [
+            {
+                "text": "À faire obéir.",
+                "correct": true
+            },
+            {
+                "text": "Un bâton solide.",
+                "correct": false
+            },
+            {
+                "text": "Elle aide à se guider.",
+                "correct": false
+            },
+            {
+                "text": "Briser ou casser.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Elle ne fait pas que guider, elle peut aussi faire quoi ? 💥🧱**",
+        "answers": [
+            {
+                "text": "À marcher sans tomber.",
+                "correct": false
+            },
+            {
+                "text": "Briser ou casser.",
+                "correct": true
+            },
+            {
+                "text": "Une grande autorité.",
+                "correct": false
+            },
+            {
+                "text": "D’un roi qui règne.",
+                "correct": false
+            }
+        ]
+    }
+]

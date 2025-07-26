@@ -1,0 +1,149 @@
+[
+    {
+        "question": "1. **Comment Dieu appelle-t-il sa parole dans le verset  Jérémie 23:29 ? 🗣️🔥**",
+        "answers": [
+            {
+                "text": "Pour casser ce qui résiste.",
+                "correct": false
+            },
+            {
+                "text": "Briser le roc dur.",
+                "correct": false
+            },
+            {
+                "text": "À nettoyer et à brûler le mal.",
+                "correct": false
+            },
+            {
+                "text": "Comme un feu puissant.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **Quel est le deuxième objet comparé à la parole dans  Jérémie 23:29 ? 🔨📖**",
+        "answers": [
+            {
+                "text": "À nettoyer et à brûler le mal.",
+                "correct": false
+            },
+            {
+                "text": "Pour casser ce qui résiste.",
+                "correct": false
+            },
+            {
+                "text": "Comme un feu puissant.",
+                "correct": false
+            },
+            {
+                "text": "Un gros marteau.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. **Que peut faire ce marteau spécial ? 🔨🪨💥**",
+        "answers": [
+            {
+                "text": "Un cœur dur ou fermé.",
+                "correct": false
+            },
+            {
+                "text": "Briser le roc dur.",
+                "correct": true
+            },
+            {
+                "text": "Un gros marteau.",
+                "correct": false
+            },
+            {
+                "text": "Pour casser ce qui résiste.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **C’est qui qui parle dans ce verset ? 👑🗣️**",
+        "answers": [
+            {
+                "text": "Briser le roc dur.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur dur ou fermé.",
+                "correct": false
+            },
+            {
+                "text": "L’Éternel, Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Comme un feu puissant.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Le feu de la parole sert à quoi ? 🔥🧹**",
+        "answers": [
+            {
+                "text": "Briser le roc dur.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur dur ou fermé.",
+                "correct": false
+            },
+            {
+                "text": "À nettoyer et à brûler le mal.",
+                "correct": true
+            },
+            {
+                "text": "Comme un feu puissant.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Pourquoi la parole est comme un marteau ? 🔨⚖️**",
+        "answers": [
+            {
+                "text": "Comme un feu puissant.",
+                "correct": false
+            },
+            {
+                "text": "À nettoyer et à brûler le mal.",
+                "correct": false
+            },
+            {
+                "text": "Pour casser ce qui résiste.",
+                "correct": true
+            },
+            {
+                "text": "Briser le roc dur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Le roc représente quoi ici ? 🪨🧍‍♂️❌**",
+        "answers": [
+            {
+                "text": "Briser le roc dur.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur dur ou fermé.",
+                "correct": true
+            },
+            {
+                "text": "Pour casser ce qui résiste.",
+                "correct": false
+            },
+            {
+                "text": "Un gros marteau.",
+                "correct": false
+            }
+        ]
+    }
+]

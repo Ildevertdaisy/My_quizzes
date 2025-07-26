@@ -1,0 +1,359 @@
+[
+    {
+        "question": "1. **Dans le verset Ésaïe 64:7, qui est comparé à un potier ? 🧱✋**",
+        "answers": [
+            {
+                "text": "Dieu est le potier.",
+                "correct": true
+            },
+            {
+                "text": "Recevoir et garder sa parole.",
+                "correct": false
+            },
+            {
+                "text": "📘** => Sa parole sainte.",
+                "correct": false
+            },
+            {
+                "text": "De l’homme, fait de terre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Et nous, les humains, nous sommes comparés à quoi ? 👶",
+        "answers": [
+            {
+                "text": "Il donne une belle forme.",
+                "correct": false
+            },
+            {
+                "text": "Recevoir et garder sa parole.",
+                "correct": false
+            },
+            {
+                "text": "🪨** => À de l’argile.",
+                "correct": true
+            },
+            {
+                "text": "Dieu est le potier.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Qui façonne l’argile dans ce passage ? 🖐️🏺**",
+        "answers": [
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui façonne.",
+                "correct": true
+            },
+            {
+                "text": "Dieu peut nous former.",
+                "correct": false
+            },
+            {
+                "text": "Dieu est le potier.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Que fait un potier avec l’argile ? 🧱",
+        "answers": [
+            {
+                "text": "Son récipient.",
+                "correct": false
+            },
+            {
+                "text": "À son image.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui façonne.",
+                "correct": false
+            },
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Que veut dire “nous sommes de l’argile” ? 🌍👂**",
+        "answers": [
+            {
+                "text": "Dieu peut nous former.",
+                "correct": true
+            },
+            {
+                "text": "De l’homme, fait de terre.",
+                "correct": false
+            },
+            {
+                "text": "Dieu est le potier.",
+                "correct": false
+            },
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **De quoi parle Dieu quand il dit “terre” ? 🌱👤**",
+        "answers": [
+            {
+                "text": "De l’homme, fait de terre.",
+                "correct": true
+            },
+            {
+                "text": "Pour y mettre sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Il donne une belle forme.",
+                "correct": false
+            },
+            {
+                "text": "À son image.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Pourquoi l’homme est comparé à de la terre ? 🧠",
+        "answers": [
+            {
+                "text": "🌍** => Il pense à la terre.",
+                "correct": true
+            },
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": false
+            },
+            {
+                "text": "Recevoir et garder sa parole.",
+                "correct": false
+            },
+            {
+                "text": "📘** => Sa parole sainte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **À quoi l’homme pense presque tout le temps ? 🧠🏠🍽️**",
+        "answers": [
+            {
+                "text": "Aux choses de la terre.",
+                "correct": true
+            },
+            {
+                "text": "Pour y mettre sa parole.",
+                "correct": false
+            },
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": false
+            },
+            {
+                "text": "Son récipient.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Que veut Dieu planter dans cette terre ? 🌱📖**",
+        "answers": [
+            {
+                "text": "📘** => Sa parole sainte.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui façonne.",
+                "correct": false
+            },
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": false
+            },
+            {
+                "text": "Sa semence, sa parole.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "10. **Que devient la terre si elle reçoit la semence ? 🌍🌱🌾**",
+        "answers": [
+            {
+                "text": "Son récipient.",
+                "correct": false
+            },
+            {
+                "text": "Un champ pour Dieu.",
+                "correct": true
+            },
+            {
+                "text": "À son image.",
+                "correct": false
+            },
+            {
+                "text": "Dieu peut nous former.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **C’est quoi la semence de Dieu dans le texte ? 🌾",
+        "answers": [
+            {
+                "text": "Son récipient.",
+                "correct": false
+            },
+            {
+                "text": "📘** => Sa parole sainte.",
+                "correct": true
+            },
+            {
+                "text": "C’est Dieu qui façonne.",
+                "correct": false
+            },
+            {
+                "text": "Aux choses de la terre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Pourquoi Dieu donne sa semence à la terre ? 🙏🌱**",
+        "answers": [
+            {
+                "text": "À son image.",
+                "correct": false
+            },
+            {
+                "text": "🪨** => À de l’argile.",
+                "correct": false
+            },
+            {
+                "text": "📘** => Sa parole sainte.",
+                "correct": false
+            },
+            {
+                "text": "Pour qu’elle porte du fruit.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "13. **Dieu veut que nous devenions quoi ? 🧱🏺**",
+        "answers": [
+            {
+                "text": "Son récipient.",
+                "correct": true
+            },
+            {
+                "text": "📦** => Il forme un récipient.",
+                "correct": false
+            },
+            {
+                "text": "Sa semence, sa parole.",
+                "correct": false
+            },
+            {
+                "text": "À son image.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Pourquoi Dieu veut un récipient ? 🛠️🫙**",
+        "answers": [
+            {
+                "text": "Pour y mettre sa parole.",
+                "correct": true
+            },
+            {
+                "text": "Dieu peut nous former.",
+                "correct": false
+            },
+            {
+                "text": "Son récipient.",
+                "correct": false
+            },
+            {
+                "text": "Aux choses de la terre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15. **Quand Dieu façonne un récipient, il fait quoi ? 🖐️🎨**",
+        "answers": [
+            {
+                "text": "Sa semence, sa parole.",
+                "correct": false
+            },
+            {
+                "text": "À son image.",
+                "correct": false
+            },
+            {
+                "text": "Il donne une belle forme.",
+                "correct": true
+            },
+            {
+                "text": "Pour qu’elle porte du fruit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "16. **À quoi veut-il que nous ressemblions ? 👤✨**",
+        "answers": [
+            {
+                "text": "Sa semence, sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Dieu est le potier.",
+                "correct": false
+            },
+            {
+                "text": "Un champ pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "À son image.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "17. **Pour être à son image, on doit faire quoi ? 📖❤️**",
+        "answers": [
+            {
+                "text": "À son image.",
+                "correct": false
+            },
+            {
+                "text": "Aux choses de la terre.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui façonne.",
+                "correct": false
+            },
+            {
+                "text": "Recevoir et garder sa parole.",
+                "correct": true
+            }
+        ]
+    }
+]

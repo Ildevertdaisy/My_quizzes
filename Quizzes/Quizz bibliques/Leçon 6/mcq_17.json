@@ -1,0 +1,317 @@
+[
+    {
+        "question": "1. **Combien de types de récipients existent dans le monde spirituel ? 🔢🌍**",
+        "answers": [
+            {
+                "text": "Un cœur bien propre.",
+                "correct": false
+            },
+            {
+                "text": "Deux types de récipients.",
+                "correct": true
+            },
+            {
+                "text": "En jeûnant spirituellement.",
+                "correct": false
+            },
+            {
+                "text": "Pour mieux entendre Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Quel est le premier type de récipient ? ✨🧺**",
+        "answers": [
+            {
+                "text": "Il est précieux pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le récipient de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur vide et bien propre.",
+                "correct": false
+            },
+            {
+                "text": "Ses propres pensées.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Quel est le deuxième récipient ? ⚠️🧺**",
+        "answers": [
+            {
+                "text": "Le récipient de Satan.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur sans pensées humaines.",
+                "correct": false
+            },
+            {
+                "text": "Le récipient de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur bien propre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Peut-on mettre de la nourriture dans un bol sale ? 🍲❌**",
+        "answers": [
+            {
+                "text": "Non, jamais.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur vide et bien propre.",
+                "correct": false
+            },
+            {
+                "text": "Le récipient de Satan.",
+                "correct": false
+            },
+            {
+                "text": "Pour mieux entendre Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Dieu fait-il pareil avec sa parole ? 📖➕🧼**",
+        "answers": [
+            {
+                "text": "En jeûnant spirituellement.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur vide et bien propre.",
+                "correct": false
+            },
+            {
+                "text": "Oui, il veut un bol propre.",
+                "correct": true
+            },
+            {
+                "text": "Le récipient de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Si on est un bol pour Dieu, que faut-il avoir ? 💖🧼**",
+        "answers": [
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur bien propre.",
+                "correct": true
+            },
+            {
+                "text": "Pour mieux entendre Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le récipient de Satan.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **C’est quoi un cœur propre pour Dieu ? 💭🧹**",
+        "answers": [
+            {
+                "text": "Non, il doit être vidé.",
+                "correct": false
+            },
+            {
+                "text": "Ses propres pensées.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur sans pensées humaines.",
+                "correct": true
+            },
+            {
+                "text": "Pour mieux entendre Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Que faut-il enlever pour avoir un cœur propre ? 🧠❌**",
+        "answers": [
+            {
+                "text": "Oui, il veut un bol propre.",
+                "correct": false
+            },
+            {
+                "text": "💗** => Mettre sa parole en nous.",
+                "correct": false
+            },
+            {
+                "text": "Ses propres pensées.",
+                "correct": true
+            },
+            {
+                "text": "Un cœur vide et bien propre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Comment peut-on nettoyer son cœur ? 🛐💬**",
+        "answers": [
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "En jeûnant spirituellement.",
+                "correct": true
+            },
+            {
+                "text": "Non, il doit être vidé.",
+                "correct": false
+            },
+            {
+                "text": "Il est précieux pour Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Jeûner spirituellement, ça veut dire quoi ? ❌🥄💭**",
+        "answers": [
+            {
+                "text": "Se priver de fausses idées.",
+                "correct": true
+            },
+            {
+                "text": "💗** => Mettre sa parole en nous.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur vide et bien propre.",
+                "correct": false
+            },
+            {
+                "text": "Ses propres pensées.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Pourquoi éviter les fausses vérités ? ❌📘**",
+        "answers": [
+            {
+                "text": "Le récipient de Satan.",
+                "correct": false
+            },
+            {
+                "text": "En jeûnant spirituellement.",
+                "correct": false
+            },
+            {
+                "text": "Pour mieux entendre Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Deux types de récipients.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Ce type de jeûne est important pour qui ? 💛👑**",
+        "answers": [
+            {
+                "text": "Il est précieux pour Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Ses propres pensées.",
+                "correct": false
+            },
+            {
+                "text": "En jeûnant spirituellement.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur bien propre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Quand on jeûne bien, que peut faire Dieu ? 📖",
+        "answers": [
+            {
+                "text": "Le récipient de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "💗** => Mettre sa parole en nous.",
+                "correct": true
+            },
+            {
+                "text": "Il est précieux pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Non, il doit être vidé.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Un cœur rempli de mensonges peut-il recevoir Dieu ? ❌❤️📘**",
+        "answers": [
+            {
+                "text": "Non, il doit être vidé.",
+                "correct": true
+            },
+            {
+                "text": "En jeûnant spirituellement.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur bien propre.",
+                "correct": false
+            },
+            {
+                "text": "💗** => Mettre sa parole en nous.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15. **Qu’est-ce que Dieu cherche comme récipient ? 🧴✨📖**",
+        "answers": [
+            {
+                "text": "Se priver de fausses idées.",
+                "correct": false
+            },
+            {
+                "text": "Un cœur vide et bien propre.",
+                "correct": true
+            },
+            {
+                "text": "💗** => Mettre sa parole en nous.",
+                "correct": false
+            },
+            {
+                "text": "Oui, il veut un bol propre.",
+                "correct": false
+            }
+        ]
+    }
+]

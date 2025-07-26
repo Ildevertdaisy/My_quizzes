@@ -1,0 +1,359 @@
+[
+    {
+        "question": "1. **À quel jour Paul a-t-il été circoncis (Philippiens 3:5-8) ? 📅👶**",
+        "answers": [
+            {
+                "text": "Le huitième jour.",
+                "correct": true
+            },
+            {
+                "text": "Pour gagner Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "Comme un pharisien.",
+                "correct": false
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **De quelle famille venait Paul ? 👪🇮🇱**",
+        "answers": [
+            {
+                "text": "Jésus, son Seigneur.",
+                "correct": false
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            },
+            {
+                "text": "De la race d’Israël.",
+                "correct": true
+            },
+            {
+                "text": "Le huitième jour.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **De quelle tribu faisait-il partie ? 🛡️🔯**",
+        "answers": [
+            {
+                "text": "Oui, à tout.",
+                "correct": false
+            },
+            {
+                "text": "De la race d’Israël.",
+                "correct": false
+            },
+            {
+                "text": "De la tribu de Benjamin.",
+                "correct": true
+            },
+            {
+                "text": "Il voit ça comme une perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Paul était-il un vrai Hébreu ? 🗣️👶**",
+        "answers": [
+            {
+                "text": "Oui, né d’Hébreux.",
+                "correct": true
+            },
+            {
+                "text": "Il était irréprochable.",
+                "correct": false
+            },
+            {
+                "text": "De la race d’Israël.",
+                "correct": false
+            },
+            {
+                "text": "Comme un pharisien.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Comment suivait-il la loi de Dieu ? 📜✅**",
+        "answers": [
+            {
+                "text": "Comme un pharisien.",
+                "correct": true
+            },
+            {
+                "text": "C’était un gain pour lui.",
+                "correct": false
+            },
+            {
+                "text": "Toutes ses anciennes choses.",
+                "correct": false
+            },
+            {
+                "text": "Oui, né d’Hébreux.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Que faisait-il avec beaucoup de zèle ? 🔥👣**",
+        "answers": [
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": true
+            },
+            {
+                "text": "Comme un pharisien.",
+                "correct": false
+            },
+            {
+                "text": "C’était un gain pour lui.",
+                "correct": false
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Paul était comment dans la justice de la loi ? ⚖️🌟**",
+        "answers": [
+            {
+                "text": "Il voit ça comme une perte.",
+                "correct": false
+            },
+            {
+                "text": "Le huitième jour.",
+                "correct": false
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            },
+            {
+                "text": "Il était irréprochable.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "8. **Que pensait-il de tous ces avantages ? 🎓📜**",
+        "answers": [
+            {
+                "text": "C’était un gain pour lui.",
+                "correct": true
+            },
+            {
+                "text": "Il était irréprochable.",
+                "correct": false
+            },
+            {
+                "text": "Toutes ses anciennes choses.",
+                "correct": false
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Après avoir connu Jésus, que pense-t-il maintenant ? ✝️❗**",
+        "answers": [
+            {
+                "text": "De la tribu de Benjamin.",
+                "correct": false
+            },
+            {
+                "text": "La connaissance de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "De la race d’Israël.",
+                "correct": false
+            },
+            {
+                "text": "Il voit ça comme une perte.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "10. **Pourquoi a-t-il changé d’avis ? ❤️👑**",
+        "answers": [
+            {
+                "text": "Comme un pharisien.",
+                "correct": false
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": true
+            },
+            {
+                "text": "Pour gagner Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "Il était irréprochable.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Qu’est-ce que Paul a choisi de perdre ? 🏆📦❌**",
+        "answers": [
+            {
+                "text": "Jésus, son Seigneur.",
+                "correct": false
+            },
+            {
+                "text": "Toutes ses anciennes choses.",
+                "correct": true
+            },
+            {
+                "text": "C’était un gain pour lui.",
+                "correct": false
+            },
+            {
+                "text": "Pour gagner Jésus-Christ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Comment il regarde ces choses du passé ? 🗑️💩**",
+        "answers": [
+            {
+                "text": "Toutes ses anciennes choses.",
+                "correct": false
+            },
+            {
+                "text": "Comme de la boue.",
+                "correct": true
+            },
+            {
+                "text": "Le huitième jour.",
+                "correct": false
+            },
+            {
+                "text": "Il voit ça comme une perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Pourquoi dit-il que tout est de la boue ? 💭✝️**",
+        "answers": [
+            {
+                "text": "Pour gagner Jésus-Christ.",
+                "correct": true
+            },
+            {
+                "text": "C’était un gain pour lui.",
+                "correct": false
+            },
+            {
+                "text": "Il était irréprochable.",
+                "correct": false
+            },
+            {
+                "text": "Il voit ça comme une perte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Qui est devenu le plus important pour Paul ? 👑💖**",
+        "answers": [
+            {
+                "text": "C’était un gain pour lui.",
+                "correct": false
+            },
+            {
+                "text": "Comme un pharisien.",
+                "correct": false
+            },
+            {
+                "text": "Comme de la boue.",
+                "correct": false
+            },
+            {
+                "text": "Jésus, son Seigneur.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "15. **Qu’est-ce que Paul voulait vraiment ? 🎯👣**",
+        "answers": [
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            },
+            {
+                "text": "Le huitième jour.",
+                "correct": false
+            },
+            {
+                "text": "À cause de Jésus-Christ.",
+                "correct": false
+            },
+            {
+                "text": "Gagner Christ.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "16. **Paul a-t-il renoncé à certaines choses ? 🚫📚**",
+        "answers": [
+            {
+                "text": "Le huitième jour.",
+                "correct": false
+            },
+            {
+                "text": "Oui, à tout.",
+                "correct": true
+            },
+            {
+                "text": "De la race d’Israël.",
+                "correct": false
+            },
+            {
+                "text": "Toutes ses anciennes choses.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "17. **Qu’est-ce qui a fait grandir Paul ? 🌱📖**",
+        "answers": [
+            {
+                "text": "Oui, né d’Hébreux.",
+                "correct": false
+            },
+            {
+                "text": "La connaissance de Jésus.",
+                "correct": true
+            },
+            {
+                "text": "Il persécutait l’Église.",
+                "correct": false
+            },
+            {
+                "text": "Jésus, son Seigneur.",
+                "correct": false
+            }
+        ]
+    }
+]

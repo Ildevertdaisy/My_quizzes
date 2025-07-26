@@ -1,0 +1,296 @@
+[
+    {
+        "question": "1. **Quand je marche dans un endroit très sombre, que dis le verset Psaume 23:4 ? 🌑🚶‍♂️**",
+        "answers": [
+            {
+                "text": "Je ne crains aucun mal.",
+                "correct": true
+            },
+            {
+                "text": "Une brebis du Seigneur.",
+                "correct": false
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "On dit des fausses choses.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Comment s’appelle cet endroit sombre dans le verset ? 🕳️☠️**",
+        "answers": [
+            {
+                "text": "À suivre le bon chemin.",
+                "correct": false
+            },
+            {
+                "text": "Elle la brise comme un marteau.",
+                "correct": false
+            },
+            {
+                "text": "Car Dieu est avec moi.",
+                "correct": false
+            },
+            {
+                "text": "La vallée de l’ombre de la mort.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. **Pourquoi je n’ai pas peur là-bas ? 😌🛡️**",
+        "answers": [
+            {
+                "text": "Une houlette et un bâton.",
+                "correct": false
+            },
+            {
+                "text": "Car Dieu est avec moi.",
+                "correct": true
+            },
+            {
+                "text": "Elle le guide comme une lampe.",
+                "correct": false
+            },
+            {
+                "text": "Elle me rassure et me guide.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Qui est toujours à mes côtés ? 👣❤️**",
+        "answers": [
+            {
+                "text": "Une brebis du Seigneur.",
+                "correct": false
+            },
+            {
+                "text": "La vallée de l’ombre de la mort.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur, mon berger.",
+                "correct": true
+            },
+            {
+                "text": "On dit des fausses choses.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Dans le verset, que tient le berger ? ✋🪵**",
+        "answers": [
+            {
+                "text": "Elle me rassure et me guide.",
+                "correct": false
+            },
+            {
+                "text": "Elle la brise comme un marteau.",
+                "correct": false
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Une houlette et un bâton.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Que représente le bâton dans ce passage ? 🦯📖**",
+        "answers": [
+            {
+                "text": "Elle le guide comme une lampe.",
+                "correct": false
+            },
+            {
+                "text": "La vallée de l’ombre de la mort.",
+                "correct": false
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Elle la brise comme un marteau.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Le bâton m’aide à faire quoi ? 🧭👣**",
+        "answers": [
+            {
+                "text": "Une houlette et un bâton.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur, mon berger.",
+                "correct": false
+            },
+            {
+                "text": "À suivre le bon chemin.",
+                "correct": true
+            },
+            {
+                "text": "Une brebis du Seigneur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Et la houlette, elle fait quoi ? 🐑🦯**",
+        "answers": [
+            {
+                "text": "Car Dieu est avec moi.",
+                "correct": false
+            },
+            {
+                "text": "Elle me rassure et me guide.",
+                "correct": true
+            },
+            {
+                "text": "Elle le guide comme une lampe.",
+                "correct": false
+            },
+            {
+                "text": "Je ne crains aucun mal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Qui suis-je dans ce passage ? 🧒🐑**",
+        "answers": [
+            {
+                "text": "Une brebis du Seigneur.",
+                "correct": true
+            },
+            {
+                "text": "Une houlette et un bâton.",
+                "correct": false
+            },
+            {
+                "text": "Elle le guide comme une lampe.",
+                "correct": false
+            },
+            {
+                "text": "La vallée de l’ombre de la mort.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Et Dieu, il est pour moi comme quoi ? 👨‍🌾🐑**",
+        "answers": [
+            {
+                "text": "Elle le guide comme une lampe.",
+                "correct": false
+            },
+            {
+                "text": "On dit des fausses choses.",
+                "correct": false
+            },
+            {
+                "text": "Un berger qui protège.",
+                "correct": true
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **C’est quoi la vallée de l’ombre de la mort ? 🌫️😈**",
+        "answers": [
+            {
+                "text": "Je ne crains aucun mal.",
+                "correct": false
+            },
+            {
+                "text": "Une brebis du Seigneur.",
+                "correct": false
+            },
+            {
+                "text": "À suivre le bon chemin.",
+                "correct": false
+            },
+            {
+                "text": "Un lieu rempli de mensonges.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "12. **Dans ce lieu, que fait-on souvent ? 👄❌📖**",
+        "answers": [
+            {
+                "text": "À suivre le bon chemin.",
+                "correct": false
+            },
+            {
+                "text": "On dit des fausses choses.",
+                "correct": true
+            },
+            {
+                "text": "Un lieu rempli de mensonges.",
+                "correct": false
+            },
+            {
+                "text": "Car Dieu est avec moi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Que fait la parole face à la fausse vérité ? 🔨📖💥**",
+        "answers": [
+            {
+                "text": "On dit des fausses choses.",
+                "correct": false
+            },
+            {
+                "text": "La vallée de l’ombre de la mort.",
+                "correct": false
+            },
+            {
+                "text": "Elle la brise comme un marteau.",
+                "correct": true
+            },
+            {
+                "text": "Le Seigneur, mon berger.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Que fait la parole dans mon esprit ? 🔦🧠**",
+        "answers": [
+            {
+                "text": "Un berger qui protège.",
+                "correct": false
+            },
+            {
+                "text": "Elle le guide comme une lampe.",
+                "correct": true
+            },
+            {
+                "text": "Je ne crains aucun mal.",
+                "correct": false
+            },
+            {
+                "text": "La vallée de l’ombre de la mort.",
+                "correct": false
+            }
+        ]
+    }
+]

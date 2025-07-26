@@ -1,0 +1,212 @@
+[
+    {
+        "question": "1. **Que dit Jésus dans Jean 15:3 ? 🗣️✨**",
+        "answers": [
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Vous êtes déjà purs.",
+                "correct": true
+            },
+            {
+                "text": "Oui, les évangélistes.",
+                "correct": false
+            },
+            {
+                "text": "En recevant la parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Pourquoi les disciples sont-ils déjà purs ? 💬📖**",
+        "answers": [
+            {
+                "text": "À cause de sa parole.",
+                "correct": true
+            },
+            {
+                "text": "Pour nous faire grandir.",
+                "correct": false
+            },
+            {
+                "text": "En recevant la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus lui-même.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Que fait la parole de Dieu dans notre cœur ? 💖🧼**",
+        "answers": [
+            {
+                "text": "De la parole annoncée.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Elle le purifie.",
+                "correct": true
+            },
+            {
+                "text": "En recevant la parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Peut-on être pur sans cette parole ? ❌📖**",
+        "answers": [
+            {
+                "text": "Non, jamais.",
+                "correct": true
+            },
+            {
+                "text": "En recevant la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "De la parole annoncée.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **La purification vient de quoi selon Jésus ? 🔍📘**",
+        "answers": [
+            {
+                "text": "C’est Jésus lui-même.",
+                "correct": false
+            },
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "De la parole annoncée.",
+                "correct": true
+            },
+            {
+                "text": "Vous êtes déjà purs.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **C’est qui qui annonce cette parole ? 👑🗣️**",
+        "answers": [
+            {
+                "text": "C’est Jésus lui-même.",
+                "correct": true
+            },
+            {
+                "text": "Oui, les évangélistes.",
+                "correct": false
+            },
+            {
+                "text": "De la parole annoncée.",
+                "correct": false
+            },
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Comment devient-on spirituellement propre ? 🧽❤️**",
+        "answers": [
+            {
+                "text": "En recevant la parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Ils nous nettoient avec la parole.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Elle le purifie.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Dieu utilise-t-il d'autres outils pour nous aider ? 🛠️👤**",
+        "answers": [
+            {
+                "text": "Non, jamais.",
+                "correct": false
+            },
+            {
+                "text": "Elle le purifie.",
+                "correct": false
+            },
+            {
+                "text": "De la parole annoncée.",
+                "correct": false
+            },
+            {
+                "text": "Oui, les évangélistes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "9. **Les évangélistes font quoi pour nous ? 🧼👶**",
+        "answers": [
+            {
+                "text": "Ils nous nettoient avec la parole.",
+                "correct": true
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Vous êtes déjà purs.",
+                "correct": false
+            },
+            {
+                "text": "Pour nous faire grandir.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Pourquoi Dieu veut purifier notre cœur ? 📖💖**",
+        "answers": [
+            {
+                "text": "Vous êtes déjà purs.",
+                "correct": false
+            },
+            {
+                "text": "De la parole annoncée.",
+                "correct": false
+            },
+            {
+                "text": "À cause de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Pour nous faire grandir.",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "question": "1. **Combien d’êtres vivants voit-on dans ce verset ? (Apocalypse 15:7) 🐾👁️**",
+        "answers": [
+            {
+                "text": "Sept anges.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Un des quatre êtres vivants.",
+                "correct": false
+            },
+            {
+                "text": "Quatre êtres vivants.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **Qui donne quelque chose aux anges dans ce verset ? 🤲👼**",
+        "answers": [
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le Dieu vivant aux siècles des siècles.",
+                "correct": false
+            },
+            {
+                "text": "Il vit pour toujours.",
+                "correct": false
+            },
+            {
+                "text": "Un des quatre êtres vivants.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. **Combien d’anges reçoivent quelque chose ? 👼🔢**",
+        "answers": [
+            {
+                "text": "Le Dieu vivant aux siècles des siècles.",
+                "correct": false
+            },
+            {
+                "text": "Quatre êtres vivants.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": true
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Qu’est-ce que les anges reçoivent exactement ? 🏆💥**",
+        "answers": [
+            {
+                "text": "Sept coupes d’or.",
+                "correct": true
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Il vit pour toujours.",
+                "correct": false
+            },
+            {
+                "text": "Quatre êtres vivants.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Que contiennent ces coupes spéciales ? ⚠️🔥**",
+        "answers": [
+            {
+                "text": "La colère de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Sept anges.",
+                "correct": false
+            },
+            {
+                "text": "Sept coupes d’or.",
+                "correct": false
+            },
+            {
+                "text": "Quatre êtres vivants.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Ce Dieu en colère vit pendant combien de temps ? 🕰️🔁**",
+        "answers": [
+            {
+                "text": "Il vit pour toujours.",
+                "correct": true
+            },
+            {
+                "text": "Un des quatre êtres vivants.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Comment est décrit Dieu dans ce verset ? 🙏👑**",
+        "answers": [
+            {
+                "text": "Quatre êtres vivants.",
+                "correct": false
+            },
+            {
+                "text": "Il vit pour toujours.",
+                "correct": false
+            },
+            {
+                "text": "Sept anges.",
+                "correct": false
+            },
+            {
+                "text": "Le Dieu vivant aux siècles des siècles.",
+                "correct": true
+            }
+        ]
+    }
+]

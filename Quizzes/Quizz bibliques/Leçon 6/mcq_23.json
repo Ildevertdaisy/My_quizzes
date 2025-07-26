@@ -1,0 +1,212 @@
+[
+    {
+        "question": "1. **Qu’est-ce que nous purifions dans ce verset (1 Pierre 1:22) ? 🧼💖**",
+        "answers": [
+            {
+                "text": "Oui, de tout son cœur.",
+                "correct": false
+            },
+            {
+                "text": "Un amour sincère.",
+                "correct": false
+            },
+            {
+                "text": "Non, il doit être fort.",
+                "correct": false
+            },
+            {
+                "text": "Nos âmes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **Comment purifie-t-on son âme selon ce verset ? 📖🧏‍♂️**",
+        "answers": [
+            {
+                "text": "En obéissant à la vérité.",
+                "correct": true
+            },
+            {
+                "text": "Un amour sincère.",
+                "correct": false
+            },
+            {
+                "text": "Un amour vrai et pur.",
+                "correct": false
+            },
+            {
+                "text": "Nos âmes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Obéir à quoi exactement nous rend pur ? 👂📘**",
+        "answers": [
+            {
+                "text": "Un amour sincère.",
+                "correct": false
+            },
+            {
+                "text": "À la vérité de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’il purifie notre cœur.",
+                "correct": false
+            },
+            {
+                "text": "Oui, de tout son cœur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Quand on obéit à la parole, qu’est-ce qui naît ? 💗👫**",
+        "answers": [
+            {
+                "text": "Ardemment, avec le cœur.",
+                "correct": false
+            },
+            {
+                "text": "En obéissant à la vérité.",
+                "correct": false
+            },
+            {
+                "text": "Pour nos frères et sœurs.",
+                "correct": false
+            },
+            {
+                "text": "Un amour sincère.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Cet amour sincère est pour qui ? 🤝👦👧**",
+        "answers": [
+            {
+                "text": "Parce qu’il purifie notre cœur.",
+                "correct": false
+            },
+            {
+                "text": "À la vérité de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Non, il doit être fort.",
+                "correct": false
+            },
+            {
+                "text": "Pour nos frères et sœurs.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Quel genre d’amour devons-nous avoir ? 💞✅**",
+        "answers": [
+            {
+                "text": "Nos âmes.",
+                "correct": false
+            },
+            {
+                "text": "Un amour vrai et pur.",
+                "correct": true
+            },
+            {
+                "text": "En obéissant à la vérité.",
+                "correct": false
+            },
+            {
+                "text": "Un amour sincère.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Comment devons-nous nous aimer ? 🧡🔥**",
+        "answers": [
+            {
+                "text": "Non, il doit être fort.",
+                "correct": false
+            },
+            {
+                "text": "Pour nos frères et sœurs.",
+                "correct": false
+            },
+            {
+                "text": "Ardemment, avec le cœur.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’il purifie notre cœur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Faut-il aimer avec tout son cœur ? 💖👥**",
+        "answers": [
+            {
+                "text": "Oui, de tout son cœur.",
+                "correct": true
+            },
+            {
+                "text": "En obéissant à la vérité.",
+                "correct": false
+            },
+            {
+                "text": "Un amour sincère.",
+                "correct": false
+            },
+            {
+                "text": "Non, il doit être fort.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **L’amour entre nous doit-il être faible ? ❌💔**",
+        "answers": [
+            {
+                "text": "Un amour vrai et pur.",
+                "correct": false
+            },
+            {
+                "text": "Nos âmes.",
+                "correct": false
+            },
+            {
+                "text": "Non, il doit être fort.",
+                "correct": true
+            },
+            {
+                "text": "Ardemment, avec le cœur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Pourquoi Dieu veut cet amour sincère ? 📖❤️**",
+        "answers": [
+            {
+                "text": "Nos âmes.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il purifie notre cœur.",
+                "correct": true
+            },
+            {
+                "text": "Oui, de tout son cœur.",
+                "correct": false
+            },
+            {
+                "text": "En obéissant à la vérité.",
+                "correct": false
+            }
+        ]
+    }
+]

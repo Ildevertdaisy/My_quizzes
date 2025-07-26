@@ -1,0 +1,296 @@
+[
+    {
+        "question": "1. **Qui a choisi en premier dans ce verset (Jean 15:16) ? ✋👦**",
+        "answers": [
+            {
+                "text": "Un fruit qui reste toujours.",
+                "correct": false
+            },
+            {
+                "text": "Pour qu’on porte du fruit.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus qui a choisi.",
+                "correct": true
+            },
+            {
+                "text": "Pour aller et agir pour lui.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Est-ce nous qui avons choisi Jésus ? ❓🙋‍♂️**",
+        "answers": [
+            {
+                "text": "Un fruit qui reste toujours.",
+                "correct": false
+            },
+            {
+                "text": "❤️** => Faire de bonnes choses (évangéliser) pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Non, pas nous.",
+                "correct": true
+            },
+            {
+                "text": "Pour qu’on porte du fruit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Qui a fait le choix selon Jésus ? 👑🗣️**",
+        "answers": [
+            {
+                "text": "Des instruments choisis de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Non, pas nous.",
+                "correct": false
+            },
+            {
+                "text": "Jésus a fait le choix.",
+                "correct": true
+            },
+            {
+                "text": "Au Père (Dieu).",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Pourquoi Jésus nous a-t-il choisis ? 🎯💬**",
+        "answers": [
+            {
+                "text": "Pour qu’on porte du fruit.",
+                "correct": true
+            },
+            {
+                "text": "Non, pas nous.",
+                "correct": false
+            },
+            {
+                "text": "Que ce soit bon longtemps.",
+                "correct": false
+            },
+            {
+                "text": "Il nous donne ce qu’on a demandé.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Que veut dire \"porter du fruit\" ici ? 🍎",
+        "answers": [
+            {
+                "text": "Au Père (Dieu).",
+                "correct": false
+            },
+            {
+                "text": "❤️** => Faire de bonnes choses (évangéliser) pour Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Au nom de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "Que ce soit bon longtemps.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Jésus nous a choisis pour qu’on fasse quoi ? 🚶📖**",
+        "answers": [
+            {
+                "text": "Pour aller et agir pour lui.",
+                "correct": true
+            },
+            {
+                "text": "Jésus a fait le choix.",
+                "correct": false
+            },
+            {
+                "text": "Que ce soit bon longtemps.",
+                "correct": false
+            },
+            {
+                "text": "Des instruments choisis de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Le fruit qu’on porte doit rester comment ? 🍇🌟**",
+        "answers": [
+            {
+                "text": "Au nom de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus qui a choisi.",
+                "correct": false
+            },
+            {
+                "text": "Un fruit qui reste toujours.",
+                "correct": true
+            },
+            {
+                "text": "Jésus a fait le choix.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Que veut dire \"que votre fruit demeure\" ? 🍎⏳**",
+        "answers": [
+            {
+                "text": "Que ce soit bon longtemps.",
+                "correct": true
+            },
+            {
+                "text": "Jésus a fait le choix.",
+                "correct": false
+            },
+            {
+                "text": "Des instruments choisis de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Au nom de Jésus.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Que pouvons-nous demander au Père ? 🙏📩**",
+        "answers": [
+            {
+                "text": "Jésus a fait le choix.",
+                "correct": false
+            },
+            {
+                "text": "Ce dont on a besoin.",
+                "correct": true
+            },
+            {
+                "text": "Au Père (Dieu).",
+                "correct": false
+            },
+            {
+                "text": "Pour aller et agir pour lui.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **En quel nom faut-il prier pour recevoir ? 📣📛**",
+        "answers": [
+            {
+                "text": "Non, pas nous.",
+                "correct": false
+            },
+            {
+                "text": "Au nom de Jésus.",
+                "correct": true
+            },
+            {
+                "text": "Que ce soit bon longtemps.",
+                "correct": false
+            },
+            {
+                "text": "Au Père (Dieu).",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **À qui devons-nous faire nos demandes ? 🗣️👑**",
+        "answers": [
+            {
+                "text": "Pour aller et agir pour lui.",
+                "correct": false
+            },
+            {
+                "text": "Au Père (Dieu).",
+                "correct": true
+            },
+            {
+                "text": "Au nom de Jésus.",
+                "correct": false
+            },
+            {
+                "text": "❤️** => Faire de bonnes choses (évangéliser) pour Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. **Que fait Dieu quand on demande au bon nom ? 🎁📬**",
+        "answers": [
+            {
+                "text": "Des instruments choisis de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Un fruit qui reste toujours.",
+                "correct": false
+            },
+            {
+                "text": "Non, pas nous.",
+                "correct": false
+            },
+            {
+                "text": "Il nous donne ce qu’on a demandé.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "13. **Pourquoi devons-nous porter du fruit avant ? 🍏❤️**",
+        "answers": [
+            {
+                "text": "Pour aller et agir pour lui.",
+                "correct": false
+            },
+            {
+                "text": "Pour faire plaisir à Dieu.",
+                "correct": true
+            },
+            {
+                "text": "❤️** => Faire de bonnes choses (évangéliser) pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour qu’on porte du fruit.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Ce verset nous apprend à devenir quoi ? 🌱📖🧺**",
+        "answers": [
+            {
+                "text": "Pour aller et agir pour lui.",
+                "correct": false
+            },
+            {
+                "text": "C’est Jésus qui a choisi.",
+                "correct": false
+            },
+            {
+                "text": "Des instruments choisis de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Au Père (Dieu).",
+                "correct": false
+            }
+        ]
+    }
+]

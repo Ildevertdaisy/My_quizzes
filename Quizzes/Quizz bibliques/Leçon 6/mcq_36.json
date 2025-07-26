@@ -1,0 +1,107 @@
+[
+    {
+        "question": "1.1 Thessalonicien 5 : 1 - 6 | 1 Pour ce qui est des temps et ___,",
+        "answers": [
+            {
+                "text": "vous-mêmes",
+                "correct": false
+            },
+            {
+                "text": "des moments",
+                "correct": true
+            },
+            {
+                "text": "frères, en écrive",
+                "correct": false
+            },
+            {
+                "text": "voleur, nuit",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2.1 Thessalonicien 5 : 1 - 6 | 1  vous n'avez pas besoin, ___, qu'on vous ___.",
+        "answers": [
+            {
+                "text": "voleur, nuit",
+                "correct": false
+            },
+            {
+                "text": "des moments",
+                "correct": false
+            },
+            {
+                "text": "frères, en écrive",
+                "correct": true
+            },
+            {
+                "text": "du Seigneur",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3.1 Thessalonicien 5 : 1 - 6 | 2 Car vous savez bien ___",
+        "answers": [
+            {
+                "text": "du Seigneur",
+                "correct": false
+            },
+            {
+                "text": "vous-mêmes",
+                "correct": true
+            },
+            {
+                "text": "voleur, nuit",
+                "correct": false
+            },
+            {
+                "text": "frères, en écrive",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4.1 Thessalonicien 5 : 1 - 6 | 2  que le jour ___ viendra",
+        "answers": [
+            {
+                "text": "du Seigneur",
+                "correct": true
+            },
+            {
+                "text": "voleur, nuit",
+                "correct": false
+            },
+            {
+                "text": "des moments",
+                "correct": false
+            },
+            {
+                "text": "frères, en écrive",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5.1 Thessalonicien 5 : 1 - 6 | 2  comme un ___ dans la ___.",
+        "answers": [
+            {
+                "text": "vous-mêmes",
+                "correct": false
+            },
+            {
+                "text": "du Seigneur",
+                "correct": false
+            },
+            {
+                "text": "voleur, nuit",
+                "correct": true
+            },
+            {
+                "text": "des moments",
+                "correct": false
+            }
+        ]
+    }
+]

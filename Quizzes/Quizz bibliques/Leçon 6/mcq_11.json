@@ -1,0 +1,212 @@
+[
+    {
+        "question": "1. **Dans ce verset, que veut faire Dieu avec ses instructions (Deutéronome 32:2) ? 📘🌧️**",
+        "answers": [
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": false
+            },
+            {
+                "text": "Les répandre comme la pluie.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’elle rafraîchit et fait grandir.",
+                "correct": false
+            },
+            {
+                "text": "Une petite pluie bien fraîche.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Comment tombe la pluie selon l’image du verset ? 🌧️📖**",
+        "answers": [
+            {
+                "text": "Parce qu’elle rafraîchit et fait grandir.",
+                "correct": false
+            },
+            {
+                "text": "Tout doucement sur l’herbe.",
+                "correct": false
+            },
+            {
+                "text": "Sa parole comme la rosée.",
+                "correct": false
+            },
+            {
+                "text": "Elle tombe doucement partout.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. **Dieu compare ses instructions à quoi ? 🌧️📘**",
+        "answers": [
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": true
+            },
+            {
+                "text": "Sur l’herbe bien verte.",
+                "correct": false
+            },
+            {
+                "text": "Les répandre comme la pluie.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’elle rafraîchit et fait grandir.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Après la pluie, que fait Dieu descendre encore ? ❄️✨**",
+        "answers": [
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": false
+            },
+            {
+                "text": "Tout doucement sur l’herbe.",
+                "correct": false
+            },
+            {
+                "text": "Sa parole comme la rosée.",
+                "correct": true
+            },
+            {
+                "text": "Une petite pluie bien fraîche.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **La rosée, elle tombe comment ? 🌫️🍃**",
+        "answers": [
+            {
+                "text": "Parce qu’elle rafraîchit et fait grandir.",
+                "correct": false
+            },
+            {
+                "text": "Tout doucement sur l’herbe.",
+                "correct": true
+            },
+            {
+                "text": "Une petite pluie bien fraîche.",
+                "correct": false
+            },
+            {
+                "text": "Sur l’herbe bien verte.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Dieu dit que sa parole est comme quoi d’autre ? 💧🌱**",
+        "answers": [
+            {
+                "text": "Sur l’herbe bien verte.",
+                "correct": false
+            },
+            {
+                "text": "Comme des ondées sur la verdure.",
+                "correct": true
+            },
+            {
+                "text": "Sa parole comme la rosée.",
+                "correct": false
+            },
+            {
+                "text": "Les répandre comme la pluie.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **C’est quoi une ondée dans ce passage ? 🌦️💧**",
+        "answers": [
+            {
+                "text": "Les répandre comme la pluie.",
+                "correct": false
+            },
+            {
+                "text": "Sa parole comme la rosée.",
+                "correct": false
+            },
+            {
+                "text": "Une petite pluie bien fraîche.",
+                "correct": true
+            },
+            {
+                "text": "Tout doucement sur l’herbe.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Où tombent les gouttes dans ce verset ? 🌿💦**",
+        "answers": [
+            {
+                "text": "À la pluie qui tombe.",
+                "correct": false
+            },
+            {
+                "text": "Sa parole comme la rosée.",
+                "correct": false
+            },
+            {
+                "text": "À ceux qui écoutent Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Sur l’herbe bien verte.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "9. **Pourquoi Dieu compare sa parole à de l’eau ? 💧📘**",
+        "answers": [
+            {
+                "text": "Comme des ondées sur la verdure.",
+                "correct": false
+            },
+            {
+                "text": "Elle tombe doucement partout.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’elle rafraîchit et fait grandir.",
+                "correct": true
+            },
+            {
+                "text": "À ceux qui écoutent Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **À qui tombe cette parole pleine d’eau ? 🙋🌧️**",
+        "answers": [
+            {
+                "text": "Tout doucement sur l’herbe.",
+                "correct": false
+            },
+            {
+                "text": "Elle tombe doucement partout.",
+                "correct": false
+            },
+            {
+                "text": "À ceux qui écoutent Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’elle rafraîchit et fait grandir.",
+                "correct": false
+            }
+        ]
+    }
+]

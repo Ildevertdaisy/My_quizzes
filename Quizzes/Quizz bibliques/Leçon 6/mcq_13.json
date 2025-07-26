@@ -1,0 +1,233 @@
+[
+    {
+        "question": "1. **Qui parle dans le verset de Jérémie 5:14 ? 📣👑**",
+        "answers": [
+            {
+                "text": "Il veut en faire du feu.",
+                "correct": false
+            },
+            {
+                "text": "L’Éternel, Dieu des armées.",
+                "correct": true
+            },
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": false
+            },
+            {
+                "text": "🔥** => La parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Pourquoi Dieu dit ce message spécial ? 👂🗣️**",
+        "answers": [
+            {
+                "text": "De la bouche du prophète.",
+                "correct": false
+            },
+            {
+                "text": "Parce que le peuple a parlé ainsi.",
+                "correct": true
+            },
+            {
+                "text": "Pour montrer le pouvoir de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Qu’est-ce que Dieu veut faire avec sa parole ? 📘🔥**",
+        "answers": [
+            {
+                "text": "À du bois sec.",
+                "correct": false
+            },
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": false
+            },
+            {
+                "text": "🔥** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Il veut en faire du feu.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "4. **Où ce feu spécial va-t-il sortir ? 👄🔥**",
+        "answers": [
+            {
+                "text": "Il le consume entièrement.",
+                "correct": false
+            },
+            {
+                "text": "De la bouche du prophète.",
+                "correct": true
+            },
+            {
+                "text": "🔥** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Il veut en faire du feu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Dieu transforme la parole en quoi exactement ? 🔥🗯️**",
+        "answers": [
+            {
+                "text": "En feu puissant dans la bouche.",
+                "correct": true
+            },
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": false
+            },
+            {
+                "text": "Pour montrer le pouvoir de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Il veut en faire du feu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **À quoi est comparé le peuple dans ce verset ? 🌳👥**",
+        "answers": [
+            {
+                "text": "Il veut en faire du feu.",
+                "correct": false
+            },
+            {
+                "text": "En feu puissant dans la bouche.",
+                "correct": false
+            },
+            {
+                "text": "À du bois sec.",
+                "correct": true
+            },
+            {
+                "text": "De la bouche du prophète.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Que fait le feu quand il touche du bois ? 💥🔥**",
+        "answers": [
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": false
+            },
+            {
+                "text": "De la bouche du prophète.",
+                "correct": false
+            },
+            {
+                "text": "Il le consume entièrement.",
+                "correct": true
+            },
+            {
+                "text": "L’Éternel, Dieu des armées.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Dans l’image du verset, que représente le feu ? 📖",
+        "answers": [
+            {
+                "text": "🔥** => La parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Pour montrer le pouvoir de sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Il le consume entièrement.",
+                "correct": false
+            },
+            {
+                "text": "Il veut en faire du feu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Et que représente le bois dans ce message ? 👥🌲**",
+        "answers": [
+            {
+                "text": "Il le consume entièrement.",
+                "correct": false
+            },
+            {
+                "text": "Le peuple désobéissant.",
+                "correct": true
+            },
+            {
+                "text": "De la bouche du prophète.",
+                "correct": false
+            },
+            {
+                "text": "🔥** => La parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Pourquoi Dieu utilise cette image forte ? 🧠⚠️**",
+        "answers": [
+            {
+                "text": "En feu puissant dans la bouche.",
+                "correct": false
+            },
+            {
+                "text": "L’Éternel, Dieu des armées.",
+                "correct": false
+            },
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": false
+            },
+            {
+                "text": "Pour montrer le pouvoir de sa parole.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "11. **Que veut dire “le feu les consume” ? 🔥",
+        "answers": [
+            {
+                "text": "🔥** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Parce que le peuple a parlé ainsi.",
+                "correct": false
+            },
+            {
+                "text": "Le peuple désobéissant.",
+                "correct": false
+            },
+            {
+                "text": "❌** => La parole les détruit comme du bois.",
+                "correct": true
+            }
+        ]
+    }
+]

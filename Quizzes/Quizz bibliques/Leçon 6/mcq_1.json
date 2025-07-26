@@ -1,0 +1,317 @@
+[
+    {
+        "question": "1. **Qui est très content selon le début du Psaumes 1:1-3 ? 😊**",
+        "answers": [
+            {
+                "text": "Parce que ça lui fait plaisir.",
+                "correct": false
+            },
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": false
+            },
+            {
+                "text": "Il donne ses fruits au bon moment.",
+                "correct": false
+            },
+            {
+                "text": "Celui qui ne suit pas les méchants.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **Que ne fait pas la personne heureuse avec les méchants ? 🚫🚶**",
+        "answers": [
+            {
+                "text": "Elle ne marche pas avec leurs idées.",
+                "correct": true
+            },
+            {
+                "text": "Celui qui ne suit pas les méchants.",
+                "correct": false
+            },
+            {
+                "text": "Non, il reste fort et heureux.",
+                "correct": false
+            },
+            {
+                "text": "Un arbre près de l’eau.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Quand elle voit des pécheurs, que fait-elle ? 🚫🛑**",
+        "answers": [
+            {
+                "text": "Elle ne s’arrête pas avec eux.",
+                "correct": true
+            },
+            {
+                "text": "Elle ne s’assied pas avec les moqueurs.",
+                "correct": false
+            },
+            {
+                "text": "La loi du Seigneur (lire la Bible).",
+                "correct": false
+            },
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Quand il y a des gens qui se moquent, elle fait quoi ? 🙊🚫**",
+        "answers": [
+            {
+                "text": "La loi du Seigneur (lire la Bible).",
+                "correct": false
+            },
+            {
+                "text": "Non, il reste fort et heureux.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne s’assied pas avec les moqueurs.",
+                "correct": true
+            },
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Qu’est-ce que cette personne aime vraiment ? 📖❤️**",
+        "answers": [
+            {
+                "text": "Le jour et la nuit.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne marche pas avec leurs idées.",
+                "correct": false
+            },
+            {
+                "text": "La loi du Seigneur (lire la Bible).",
+                "correct": true
+            },
+            {
+                "text": "Il donne ses fruits au bon moment.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Elle pense à la loi quand ? 🕗🌙**",
+        "answers": [
+            {
+                "text": "Le jour et la nuit.",
+                "correct": true
+            },
+            {
+                "text": "Celui qui ne suit pas les méchants.",
+                "correct": false
+            },
+            {
+                "text": "Car elle suit Dieu et sa parole.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne s’arrête pas avec eux.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Pourquoi elle lit et pense à la loi ? 📘🤔**",
+        "answers": [
+            {
+                "text": "La loi du Seigneur (lire la Bible).",
+                "correct": false
+            },
+            {
+                "text": "Parce que ça lui fait plaisir.",
+                "correct": true
+            },
+            {
+                "text": "Elle ne marche pas avec leurs idées.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne s’assied pas avec les moqueurs.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **À quoi ressemble cette personne sage ? 🌳💧**",
+        "answers": [
+            {
+                "text": "Elle ne marche pas avec leurs idées.",
+                "correct": false
+            },
+            {
+                "text": "Le jour et la nuit.",
+                "correct": false
+            },
+            {
+                "text": "Un arbre près de l’eau.",
+                "correct": true
+            },
+            {
+                "text": "Celui qui ne suit pas les méchants.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Qu’est-ce que fait l’arbre à sa saison ? 🍎⏰**",
+        "answers": [
+            {
+                "text": "Il donne ses fruits au bon moment.",
+                "correct": true
+            },
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne marche pas avec leurs idées.",
+                "correct": false
+            },
+            {
+                "text": "Ne pas suivre le mal, aimer la loi de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Comment sont les feuilles de cet arbre ? 🍃🌟**",
+        "answers": [
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": false
+            },
+            {
+                "text": "Tout ce qu’elle fait réussit.",
+                "correct": false
+            },
+            {
+                "text": "Elles ne deviennent jamais sèches.",
+                "correct": true
+            },
+            {
+                "text": "Ne pas suivre le mal, aimer la loi de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Pourquoi l’arbre reste tout beau ? 🌊🌳**",
+        "answers": [
+            {
+                "text": "Elle ne marche pas avec leurs idées.",
+                "correct": false
+            },
+            {
+                "text": "Tout ce qu’elle fait réussit.",
+                "correct": false
+            },
+            {
+                "text": "Non, il reste fort et heureux.",
+                "correct": false
+            },
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "12. **Est-ce que cet arbre est triste ou faible ? 😢❌**",
+        "answers": [
+            {
+                "text": "Tout ce qu’elle fait réussit.",
+                "correct": false
+            },
+            {
+                "text": "Il pousse près d’un courant d’eau.",
+                "correct": false
+            },
+            {
+                "text": "Non, il reste fort et heureux.",
+                "correct": true
+            },
+            {
+                "text": "Elle ne s’assied pas avec les moqueurs.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. **Quand cette personne fait des choses, que se passe-t-il ? ✅💪**",
+        "answers": [
+            {
+                "text": "La loi du Seigneur (lire la Bible).",
+                "correct": false
+            },
+            {
+                "text": "Elle ne s’arrête pas avec eux.",
+                "correct": false
+            },
+            {
+                "text": "Tout ce qu’elle fait réussit.",
+                "correct": true
+            },
+            {
+                "text": "Non, il reste fort et heureux.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. **Pourquoi tout lui réussit ? 🧠📖**",
+        "answers": [
+            {
+                "text": "Car elle suit Dieu et sa parole.",
+                "correct": true
+            },
+            {
+                "text": "Parce que ça lui fait plaisir.",
+                "correct": false
+            },
+            {
+                "text": "Elle ne s’assied pas avec les moqueurs.",
+                "correct": false
+            },
+            {
+                "text": "Elles ne deviennent jamais sèches.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15. **Quel est le secret du bonheur dans ce psaume ? 🎉🙏**",
+        "answers": [
+            {
+                "text": "Tout ce qu’elle fait réussit.",
+                "correct": false
+            },
+            {
+                "text": "Ne pas suivre le mal, aimer la loi de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Elles ne deviennent jamais sèches.",
+                "correct": false
+            },
+            {
+                "text": "Il donne ses fruits au bon moment.",
+                "correct": false
+            }
+        ]
+    }
+]

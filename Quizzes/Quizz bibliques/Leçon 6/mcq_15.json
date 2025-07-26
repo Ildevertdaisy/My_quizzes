@@ -1,0 +1,191 @@
+[
+    {
+        "question": "1. **Qui parle dans le verset d’Actes 9:15 ? 📣👑**",
+        "answers": [
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur.",
+                "correct": true
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **À qui Dieu parle-t-il dans ce passage ? 🧔🗣️**",
+        "answers": [
+            {
+                "text": "À Ananias.",
+                "correct": true
+            },
+            {
+                "text": "Un instrument choisi.",
+                "correct": false
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Que demande Dieu à Ananias de faire ? 🚶📦**",
+        "answers": [
+            {
+                "text": "D’aller voir un homme spécial.",
+                "correct": true
+            },
+            {
+                "text": "Un récipient pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Quel homme Dieu a-t-il choisi dans ce texte ? 👤✨**",
+        "answers": [
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": false
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": true
+            },
+            {
+                "text": "Un instrument choisi.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Comment Dieu appelle Paul dans ce verset ? 🧺📘**",
+        "answers": [
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": false
+            },
+            {
+                "text": "Un instrument choisi.",
+                "correct": true
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Que veut dire “instrument choisi” ici ? 🎯🧴**",
+        "answers": [
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": false
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient pour Dieu.",
+                "correct": true
+            },
+            {
+                "text": "D’aller voir un homme spécial.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Pourquoi Dieu a choisi Paul ? ❓💬**",
+        "answers": [
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            },
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": false
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": true
+            },
+            {
+                "text": "D’aller voir un homme spécial.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **À qui Paul devait parler de Dieu ? 🌍👑👪**",
+        "answers": [
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "Un récipient pour Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur.",
+                "correct": false
+            },
+            {
+                "text": "Aux nations, rois et Israélites.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "9. **Qu’est-ce que Paul devait porter exactement ? 📣📖**",
+        "answers": [
+            {
+                "text": "Un instrument choisi.",
+                "correct": false
+            },
+            {
+                "text": "Le nom de Dieu partout.",
+                "correct": true
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "L’apôtre Paul.",
+                "correct": false
+            }
+        ]
+    }
+]

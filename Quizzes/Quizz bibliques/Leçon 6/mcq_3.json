@@ -1,0 +1,254 @@
+[
+    {
+        "question": "1. **Dans cette leçon, on découvre des secrets spéciaux. Lesquels ? 🔑👑**",
+        "answers": [
+            {
+                "text": "C’est là où va la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Chaque personne avec un bon cœur.",
+                "correct": false
+            },
+            {
+                "text": "Les secrets du royaume des cieux.",
+                "correct": true
+            },
+            {
+                "text": "Pour qu’on l’écoute et qu’on la garde.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Combien de choses importantes sont expliquées dans cette leçon ? ✨3️⃣**",
+        "answers": [
+            {
+                "text": "Pour qu’on l’écoute et qu’on la garde.",
+                "correct": false
+            },
+            {
+                "text": "Non, c’est une image.",
+                "correct": false
+            },
+            {
+                "text": "Trois : récipient, balance, verge.",
+                "correct": true
+            },
+            {
+                "text": "Il garde la parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Quelle est la première chose qu’on apprend dans cette leçon ? 🥇📦**",
+        "answers": [
+            {
+                "text": "Chaque personne avec un bon cœur.",
+                "correct": false
+            },
+            {
+                "text": "Le récipient.",
+                "correct": true
+            },
+            {
+                "text": "Les secrets du royaume des cieux.",
+                "correct": false
+            },
+            {
+                "text": "Trois : récipient, balance, verge.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Que met-on dans le récipient selon Dieu ? 📖💧**",
+        "answers": [
+            {
+                "text": "Trois : récipient, balance, verge.",
+                "correct": false
+            },
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": false
+            },
+            {
+                "text": "C’est là où va la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. **Est-ce que ce récipient est une boîte ? 📦❌**",
+        "answers": [
+            {
+                "text": "Les secrets du royaume des cieux.",
+                "correct": false
+            },
+            {
+                "text": "L’église, l’organisation.",
+                "correct": false
+            },
+            {
+                "text": "Le récipient.",
+                "correct": false
+            },
+            {
+                "text": "Non, c’est une image.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. **Dans cette image, c’est quoi le récipient ? 💗📖**",
+        "answers": [
+            {
+                "text": "Pour qu’on l’écoute et qu’on la garde.",
+                "correct": false
+            },
+            {
+                "text": "C’est là où va la parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "L’église, l’organisation.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **À petite échelle, le récipient représente quoi ? 🧍❤️**",
+        "answers": [
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": true
+            },
+            {
+                "text": "L’église, l’organisation.",
+                "correct": false
+            },
+            {
+                "text": "Il garde la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Elle reçoit la parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. **Pourquoi le cœur est comme un récipient ? 💌📘**",
+        "answers": [
+            {
+                "text": "Il garde la parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Chaque personne avec un bon cœur.",
+                "correct": false
+            },
+            {
+                "text": "La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Elle reçoit la parole de Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **À grande échelle, que représente le récipient ? 🏛️📖**",
+        "answers": [
+            {
+                "text": "Le récipient.",
+                "correct": false
+            },
+            {
+                "text": "L’église, l’organisation.",
+                "correct": true
+            },
+            {
+                "text": "Non, c’est une image.",
+                "correct": false
+            },
+            {
+                "text": "Trois : récipient, balance, verge.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. **Pourquoi l’église est aussi un récipient ? 👨‍👩‍👧‍👦📘**",
+        "answers": [
+            {
+                "text": "Elle reçoit la parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": false
+            },
+            {
+                "text": "C’est là où va la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Chaque personne avec un bon cœur.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Qui peut avoir la parole de Dieu en lui ? 👧👦📖**",
+        "answers": [
+            {
+                "text": "Il garde la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Elle reçoit la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Non, c’est une image.",
+                "correct": false
+            },
+            {
+                "text": "Chaque personne avec un bon cœur.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "12. **Pourquoi Dieu veut mettre sa parole dans un récipient ? 💬🧠**",
+        "answers": [
+            {
+                "text": "Il garde la parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour qu’on l’écoute et qu’on la garde.",
+                "correct": true
+            },
+            {
+                "text": "Les secrets du royaume des cieux.",
+                "correct": false
+            },
+            {
+                "text": "L’église, l’organisation.",
+                "correct": false
+            }
+        ]
+    }
+]

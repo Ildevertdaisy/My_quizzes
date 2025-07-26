@@ -1,0 +1,86 @@
+[
+    {
+        "question": "14.1 Thessalonicien 5 : 1 - 6 | 6 Ne ___ donc point comme les autres,",
+        "answers": [
+            {
+                "text": "l'intelligence, simples",
+                "correct": false
+            },
+            {
+                "text": "dormons",
+                "correct": true
+            },
+            {
+                "text": "veillons, sobres",
+                "correct": false
+            },
+            {
+                "text": "tes paroles,",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15.1 Thessalonicien 5 : 1 - 6 | 6 mais ___ et soyons ___.",
+        "answers": [
+            {
+                "text": "veillons, sobres",
+                "correct": true
+            },
+            {
+                "text": "tes paroles,",
+                "correct": false
+            },
+            {
+                "text": "l'intelligence, simples",
+                "correct": false
+            },
+            {
+                "text": "dormons",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "16.Psaumes 119 : 130 | 130 La révélation de ___ éclaire,",
+        "answers": [
+            {
+                "text": "dormons",
+                "correct": false
+            },
+            {
+                "text": "tes paroles,",
+                "correct": true
+            },
+            {
+                "text": "l'intelligence, simples",
+                "correct": false
+            },
+            {
+                "text": "veillons, sobres",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "17.Psaumes 119 : 130 | 130  Elle donne de ___ aux ___.",
+        "answers": [
+            {
+                "text": "l'intelligence, simples",
+                "correct": true
+            },
+            {
+                "text": "dormons",
+                "correct": false
+            },
+            {
+                "text": "veillons, sobres",
+                "correct": false
+            },
+            {
+                "text": "tes paroles,",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "question": "1. **Dans la Bible, que contient la coupe d’or ? 🏆🔥**",
+        "answers": [
+            {
+                "text": "Une coupe ou une outre.",
+                "correct": false
+            },
+            {
+                "text": "Son contenu.",
+                "correct": false
+            },
+            {
+                "text": "Oui, il y a plusieurs formes.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "2. **À quoi sert un récipient physique dans la vie ? 🍽️🔧**",
+        "answers": [
+            {
+                "text": "Une tasse.",
+                "correct": false
+            },
+            {
+                "text": "L’intérieur du récipient.",
+                "correct": false
+            },
+            {
+                "text": "Oui, il y a plusieurs formes.",
+                "correct": false
+            },
+            {
+                "text": "Il contient de la nourriture.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "3. **Donne un exemple de récipient qu’on peut utiliser. ☕🍵**",
+        "answers": [
+            {
+                "text": "Une tasse.",
+                "correct": true
+            },
+            {
+                "text": "Non, il ne sert à rien.",
+                "correct": false
+            },
+            {
+                "text": "Ce qu’il y a dedans.",
+                "correct": false
+            },
+            {
+                "text": "Une coupe ou une outre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. **Peut-on avoir un récipient très grand ? 📏🥤**",
+        "answers": [
+            {
+                "text": "Oui, comme une grande mesure.",
+                "correct": true
+            },
+            {
+                "text": "L’intérieur du récipient.",
+                "correct": false
+            },
+            {
+                "text": "Une tasse.",
+                "correct": false
+            },
+            {
+                "text": "Son contenu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **Et un tout petit récipient, c’est possible ? 🧴👶**",
+        "answers": [
+            {
+                "text": "Oui, comme une petite bouteille.",
+                "correct": true
+            },
+            {
+                "text": "Non, il ne sert à rien.",
+                "correct": false
+            },
+            {
+                "text": "L’intérieur du récipient.",
+                "correct": false
+            },
+            {
+                "text": "Une coupe ou une outre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Donne encore un autre exemple de récipient. 🍷🧂**",
+        "answers": [
+            {
+                "text": "Une coupe ou une outre.",
+                "correct": true
+            },
+            {
+                "text": "Son contenu.",
+                "correct": false
+            },
+            {
+                "text": "Oui, il y a plusieurs formes.",
+                "correct": false
+            },
+            {
+                "text": "L’intérieur du récipient.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Les récipients peuvent-ils avoir plusieurs formes ? 🔺🔵**",
+        "answers": [
+            {
+                "text": "Une coupe ou une outre.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Son contenu.",
+                "correct": false
+            },
+            {
+                "text": "Oui, il y a plusieurs formes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "8. **Qu’est-ce qui rend un récipient vraiment spécial ? ✨📦**",
+        "answers": [
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Une coupe ou une outre.",
+                "correct": false
+            },
+            {
+                "text": "Ce qu’il y a dedans.",
+                "correct": true
+            },
+            {
+                "text": "Oui, comme une grande mesure.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. **Si le récipient est joli mais vide, est-il utile ? ❌🫙**",
+        "answers": [
+            {
+                "text": "Son contenu.",
+                "correct": false
+            },
+            {
+                "text": "Oui, comme une grande mesure.",
+                "correct": false
+            },
+            {
+                "text": "Une tasse.",
+                "correct": false
+            },
+            {
+                "text": "Non, il ne sert à rien.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "10. **Qu’est-ce qui donne la valeur au récipient ? 💎🧪**",
+        "answers": [
+            {
+                "text": "Oui, comme une petite bouteille.",
+                "correct": false
+            },
+            {
+                "text": "Il contient de la nourriture.",
+                "correct": false
+            },
+            {
+                "text": "Son contenu.",
+                "correct": true
+            },
+            {
+                "text": "Oui, il y a plusieurs formes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. **Dans cette image, que regarde Dieu en premier ? 👀❤️**",
+        "answers": [
+            {
+                "text": "L’intérieur du récipient.",
+                "correct": true
+            },
+            {
+                "text": "Il contient de la nourriture.",
+                "correct": false
+            },
+            {
+                "text": "Non, il ne sert à rien.",
+                "correct": false
+            },
+            {
+                "text": "La colère de Dieu.",
+                "correct": false
+            }
+        ]
+    }
+]

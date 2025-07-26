@@ -1,0 +1,170 @@
+[
+    {
+        "question": "1. (Apocalype 15 : 7) L'un **_ donna aux _** d'or",
+        "answers": [
+            {
+                "text": "des quatre êtres vivants, sept anges sept coupes",
+                "correct": true
+            },
+            {
+                "text": "Actes 9 : 15",
+                "correct": false
+            },
+            {
+                "text": "Jeremie 5 : 14",
+                "correct": false
+            },
+            {
+                "text": "Ésaïe 64:7",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. (Apocalype 15 : 7) sept coupes d'or ___ aux siècles des siècles.",
+        "answers": [
+            {
+                "text": "Ésaïe 64:7",
+                "correct": false
+            },
+            {
+                "text": "pleines de la colère du Dieu qui vit",
+                "correct": true
+            },
+            {
+                "text": "vous êtes purs, de la parole que je vous ai annoncée",
+                "correct": false
+            },
+            {
+                "text": "Jeremie 5 : 14",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. (Jean 15 : 3) Déjà **_, à cause _**.",
+        "answers": [
+            {
+                "text": "des quatre êtres vivants, sept anges sept coupes",
+                "correct": false
+            },
+            {
+                "text": "1 Pierre 1:22",
+                "correct": false
+            },
+            {
+                "text": "Ésaïe 64:7",
+                "correct": false
+            },
+            {
+                "text": "vous êtes purs, de la parole que je vous ai annoncée",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "4. Verset qui assimile la parole de Dieu à de l'eau",
+        "answers": [
+            {
+                "text": "des quatre êtres vivants, sept anges sept coupes",
+                "correct": false
+            },
+            {
+                "text": "2 Timothée 2:20",
+                "correct": true
+            },
+            {
+                "text": "Ésaïe 64:7",
+                "correct": false
+            },
+            {
+                "text": "1 Pierre 1:22",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. Verset qui assimile Dieu à un Potier",
+        "answers": [
+            {
+                "text": "1 Pierre 1:22",
+                "correct": false
+            },
+            {
+                "text": "Actes 9 : 15",
+                "correct": false
+            },
+            {
+                "text": "pleines de la colère du Dieu qui vit",
+                "correct": false
+            },
+            {
+                "text": "Ésaïe 64:7",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "6. Verset qui assimile la parole de Dieu au feu",
+        "answers": [
+            {
+                "text": "pleines de la colère du Dieu qui vit",
+                "correct": false
+            },
+            {
+                "text": "Actes 9 : 15",
+                "correct": false
+            },
+            {
+                "text": "Jeremie 5 : 14",
+                "correct": true
+            },
+            {
+                "text": "2 Timothée 2:20",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. Verset qui décrit l'apôtre Paul comme un instrument choisi par Dieu.",
+        "answers": [
+            {
+                "text": "des quatre êtres vivants, sept anges sept coupes",
+                "correct": false
+            },
+            {
+                "text": "vous êtes purs, de la parole que je vous ai annoncée",
+                "correct": false
+            },
+            {
+                "text": "Actes 9 : 15",
+                "correct": true
+            },
+            {
+                "text": "2 Timothée 2:20",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. Verset qui définit le vase d'honneur et le vase d'un usage vil.",
+        "answers": [
+            {
+                "text": "Jeremie 5 : 14",
+                "correct": false
+            },
+            {
+                "text": "vous êtes purs, de la parole que je vous ai annoncée",
+                "correct": false
+            },
+            {
+                "text": "pleines de la colère du Dieu qui vit",
+                "correct": false
+            },
+            {
+                "text": "1 Pierre 1:22",
+                "correct": true
+            }
+        ]
+    }
+]

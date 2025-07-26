@@ -1,0 +1,149 @@
+[
+    {
+        "question": "1. **Dans ce verset (d’Actes 9:15), qui a choisi Paul ? ✋👑**",
+        "answers": [
+            {
+                "text": "À un outil choisi.",
+                "correct": false
+            },
+            {
+                "text": "Aux nations, rois et Israël.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. **Pourquoi Dieu a-t-il choisi Paul ? 📢👥**",
+        "answers": [
+            {
+                "text": "Le Seigneur Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": true
+            },
+            {
+                "text": "❤️** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. **Paul est comparé à quoi dans ce passage ? 🧰✨**",
+        "answers": [
+            {
+                "text": "Le Seigneur Dieu.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui l’a formé.",
+                "correct": false
+            },
+            {
+                "text": "❤️** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "À un outil choisi.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "4. **Qui a formé cet outil appelé Paul ? 🛠️👆**",
+        "answers": [
+            {
+                "text": "Aux nations, rois et Israël.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui l’a formé.",
+                "correct": true
+            },
+            {
+                "text": "À un outil choisi.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. **À qui Paul devait-il parler de Dieu ? 🌍👑👨‍👩‍👦**",
+        "answers": [
+            {
+                "text": "❤️** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "Aux nations, rois et Israël.",
+                "correct": true
+            },
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. **Dans l’image du récipient, que représente le bol ? 🥣💗**",
+        "answers": [
+            {
+                "text": "Le cœur de l’homme.",
+                "correct": true
+            },
+            {
+                "text": "❤️** => La parole de Dieu.",
+                "correct": false
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "Le Seigneur Dieu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. **Que doit recevoir ce bol spécial ? 📖",
+        "answers": [
+            {
+                "text": "Aux nations, rois et Israël.",
+                "correct": false
+            },
+            {
+                "text": "❤️** => La parole de Dieu.",
+                "correct": true
+            },
+            {
+                "text": "Pour porter son nom.",
+                "correct": false
+            },
+            {
+                "text": "C’est Dieu qui l’a formé.",
+                "correct": false
+            }
+        ]
+    }
+]

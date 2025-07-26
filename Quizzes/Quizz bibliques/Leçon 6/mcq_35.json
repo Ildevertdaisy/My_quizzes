@@ -1,0 +1,149 @@
+[
+    {
+        "question": "1. (Luc 12 : 49) »Je suis venu ___ sur la terre;",
+        "answers": [
+            {
+                "text": "Le premier",
+                "correct": false
+            },
+            {
+                "text": "jeter un feu",
+                "correct": true
+            },
+            {
+                "text": "furent jetés",
+                "correct": false
+            },
+            {
+                "text": "herbe verte",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. (Luc 12 : 49) combien je voudrais qu'il soit ___!",
+        "answers": [
+            {
+                "text": "tiers des arbres",
+                "correct": false
+            },
+            {
+                "text": "déjà allumé",
+                "correct": true
+            },
+            {
+                "text": "herbe verte",
+                "correct": false
+            },
+            {
+                "text": "de la grêle, feu mêlés de sang",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. (Apo 8 : 7) ___ sonna de la trompette.",
+        "answers": [
+            {
+                "text": "tiers des arbres",
+                "correct": false
+            },
+            {
+                "text": "Le premier",
+                "correct": true
+            },
+            {
+                "text": "jeter un feu",
+                "correct": false
+            },
+            {
+                "text": "furent jetés",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. (Apo 8 : 7) Et il y eut ___ et du ___ ,",
+        "answers": [
+            {
+                "text": "jeter un feu",
+                "correct": false
+            },
+            {
+                "text": "herbe verte",
+                "correct": false
+            },
+            {
+                "text": "furent jetés",
+                "correct": false
+            },
+            {
+                "text": "de la grêle, feu mêlés de sang",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "5. (Apo 8 : 7) qui ___ sur la terre;",
+        "answers": [
+            {
+                "text": "Le premier",
+                "correct": false
+            },
+            {
+                "text": "herbe verte",
+                "correct": false
+            },
+            {
+                "text": "furent jetés",
+                "correct": true
+            },
+            {
+                "text": "déjà allumé",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. (Apo 8 : 7) et le ___ fut brûlé,",
+        "answers": [
+            {
+                "text": "Le premier",
+                "correct": false
+            },
+            {
+                "text": "herbe verte",
+                "correct": false
+            },
+            {
+                "text": "tiers des arbres",
+                "correct": true
+            },
+            {
+                "text": "déjà allumé",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. (Apo 8 : 7) et toute ___ fut brûlée.",
+        "answers": [
+            {
+                "text": "herbe verte",
+                "correct": true
+            },
+            {
+                "text": "Le premier",
+                "correct": false
+            },
+            {
+                "text": "de la grêle, feu mêlés de sang",
+                "correct": false
+            },
+            {
+                "text": "jeter un feu",
+                "correct": false
+            }
+        ]
+    }
+]
